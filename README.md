@@ -1,2 +1,113 @@
-# SEA
-Official code for Segment, Embed, and Align
+# Segment, Embed, and Align: A Universal Recipe for Aligning Subtitles to Signing
+
+## Paper Link
+- Title: _Segment, Embed, and Align: A Universal Recipe for Aligning Subtitles to Signing_
+- arXiv: `https://...`
+- Authors: `Zifan Jiang, Youngjoon Jang, Liliane Momeni, Gül Varol, Sarah Ebling, Andrew Zisserman`
+
+## Environment
+- Python `3.12`
+- Recommended manager: `conda`
+- Setup:
+  ```bash
+  conda create -n sea python=3.12
+  conda activate sea
+  pip install -r requirements.txt
+  ```
+
+## Run SEA (on BOBSL for example)
+
+### 0. Pose Estimation
+
+(See more on https://github.com/sign-language-processing/pose)
+
+- Install [pose-format](https://arxiv.org/abs/2310.09066) to run MediaPipe Holistic pose estimation from videos:
+  ```
+  pip install pose-format
+  ```
+- Input: `*.mp4`
+- Output: `*.pose` (binary pose format)
+- Example:
+  ```bash
+  videos_to_poses --num-workers 32 --format mediapipe --directory ~/BOBSL/derivatives/original_videos --additional-config="model_complexity=2,smooth_landmarks=false,refine_face_landmarks=true" 
+  ```
+
+### 1. Segment
+
+(See more on https://github.com/J22Melody/segmentation/tree/bsl)
+
+- Install [linguistic segmenter](https://aclanthology.org/2023.findings-emnlp.846/) to segment signs based on poses:
+  ```
+  pip install "git+https://github.com/J22Melody/segmentation@bsl"
+  ```
+- Input: `*.pose`
+- Output: `*.eaf` (ELAN files for segmentation: inspection and annotation)
+- Example:
+  ```bash
+  python segmentation.py --sign-b-threshold 30 --sign-o-threshold 50 --num_workers 4  --video_ids ./data/bobsl_align_val.txt --pose_dir ~/BOBSL/derivatives/video_features/mediapipe_v2_refine_face_complexity_2 --save_dir ~/BOBSL/sea_demo/segmentation
+  ```
+
+### 2. Embed (Optional)
+
+(See more on https://github.com/J22Melody/fairseq/tree/main/examples/MMPT#inference)
+
+- Install [SignCLIP](https://aclanthology.org/2024.emnlp-main.518/) to embed text and signs (model weigths have to be downloaded):
+  ```
+  git clone git@github.com:J22Melody/fairseq.git
+  cd fairseq
+  conda env update -n sea -f environment_inference.yml
+  ```
+- Input: `*.pose, *.vtt`
+- Output: `*.npy` (embeddings for signing and subtitle units)
+- Example to embed subtitles:
+  ```bash
+   python scripts_bsl/extract_episode_features.py --video_ids ./data/bobsl_align_val.txt --mode=subtitle --model_name bsl --language_tag "<en> <bfi>" --batch_size=1024 --subtitle_dir ~/BOBSL/v1.4/automatic_annotations/signing_aligned_subtitles/audio_aligned_heuristic_correction --save_dir ~/BOBSL/sea_demo/subtitle_embedding/sign_clip
+  ```
+- Example to embed signs:
+  ```bash
+  python scripts_bsl/extract_episode_features.py --video_ids ./data/bobsl_align_val.txt --mode=segmentation --model_name bsl --language_tag "<en> <bfi>" --batch_size=32 --segmentation_dir ~/BOBSL/sea_demo/segmentation/E4s-1_30_50 --save_dir ~/BOBSL/sea_demo/segmentation_embedding/E4s-1_30_50/sign_clip 
+  ```
+
+### 3.a. Align without Embeddings (Segment and Align)
+- Input: `*.eaf, *.vtt`
+- Output: `*.updated.eaf, *.vtt` (ELAN files after alignment and aligned subtitle files)
+- Example:
+  ```bash
+  python align.py --overwrite --mode=inference --video_ids ./data/bobsl_align_val.txt  --num_workers=4 --dp_duration_penalty_weight 1 --dp_gap_penalty_weight 5 --dp_max_gap 10 --dp_window_size 50 --sign-b-threshold 30 --sign-o-threshold 50 --pr_subs_delta_bias_start 2.6  --pr_subs_delta_bias_end 2.1 --similarity_measure none --segmentation_dir ~/BOBSL/sea_demo/segmentation --save_dir ~/BOBSL/sea_demo/aligned_subtitles
+  ```
+- Output metrics (if ground truth is provided):
+  ```bash
+    Metric                         | Result
+    -------------------------------+------------
+    Total frames                   | 245614
+    Total sentences                | 1973
+    Mean/median start offset       | -0.50/-0.26
+    Mean/median end offset         | -1.04/-0.88
+    Mean/median start offset (abs) | 0.93/0.54
+    Mean/median end offset (abs)   | 1.29/0.99
+    Frame-level accuracy           | 80.68
+    F1@0.10                        | 83.07
+    F1@0.25                        | 79.32
+    F1@0.50                        | 66.24
+  ```
+
+### 3.b. Align with Embeddings (Segment, Embed, and Align)
+- Input: `*.eaf, *.vtt, *.npy`
+- Output: `*.updated.eaf, *.vtt` (ELAN files after alignment and aligned subtitle files)
+- Example:
+  ```bash
+  python align.py --overwrite --mode=inference --video_ids ./data/bobsl_align_val.txt  --num_workers=4 --dp_duration_penalty_weight 1 --dp_gap_penalty_weight 5 --dp_max_gap 10 --dp_window_size 50 --sign-b-threshold 30 --sign-o-threshold 50 --pr_subs_delta_bias_start 2.6  --pr_subs_delta_bias_end 2.1 --similarity_measure sign_clip_embedding --similarity_weight 10  --segmentation_dir ~/BOBSL/sea_demo/segmentation --subtitle_embedding_dir ~/BOBSL/sea_demo/subtitle_embedding/sign_clip/ --segmentation_embedding_dir ~/BOBSL/sea_demo/segmentation_embedding/E4s-1_30_50/sign_clip --save_dir ~/BOBSL/sea_demo/aligned_subtitles
+  ```
+- Output metrics (if ground truth is provided):
+  ```bash
+  ```
+
+## Citation
+```
+@article{jiang2025segment,
+  title   = {Segment, Embed, and Align: A Universal Recipe for Aligning Subtitles to Signing},
+  author  = {Zifan Jiang and Youngjoon Jang and Liliane Momeni and G{\"u}l Varol and Sarah Ebling and Andrew Zisserman},
+  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+  year    = {2025}
+}
+```
