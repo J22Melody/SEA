@@ -4,6 +4,8 @@
 - arXiv: `https://...`
 - Authors: Zifan Jiang, Youngjoon Jang, Liliane Momeni, Gül Varol, Sarah Ebling, Andrew Zisserman
 
+<img width="1318" height="507" alt="image" src="https://github.com/user-attachments/assets/795e8846-45bd-469c-80c8-1282991a1d38" />
+
 ## Environment
 - Python `3.12`
 - Recommended manager: `conda`
