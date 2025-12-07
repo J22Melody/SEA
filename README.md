@@ -14,7 +14,7 @@
   pip install -r requirements.txt
   ```
 
-## Run SEA (on BOBSL for example)
+## Run SEA (on BOBSL validation set for example)
 
 ### 0. Pose Estimation
 
@@ -66,7 +66,7 @@
   ```
 - Example to embed subtitles:
   ```bash
-   python scripts_bsl/extract_episode_features.py --video_ids ~/SEA/data/bobsl_align_val.txt --mode=subtitle --model_name bsl --language_tag "<en> <bfi>" --batch_size=1024 --subtitle_dir ~/BOBSL/v1.4/automatic_annotations/signing_aligned_subtitles/audio_aligned_heuristic_correction --save_dir ~/BOBSL/sea_demo/subtitle_embedding/sign_clip
+  python scripts_bsl/extract_episode_features.py --video_ids ~/SEA/data/bobsl_align_val.txt --mode=subtitle --model_name bsl --language_tag "<en> <bfi>" --batch_size=1024 --subtitle_dir ~/BOBSL/v1.4/automatic_annotations/signing_aligned_subtitles/audio_aligned_heuristic_correction --save_dir ~/BOBSL/sea_demo/subtitle_embedding/sign_clip
   ```
 
 ### 3.a. Align without Embeddings (Segment and Align)
@@ -101,11 +101,54 @@
   ```
 - Output metrics (if ground truth is provided):
   ```bash
+    Metric                         | Result
+    -------------------------------+------------
+    Total frames                   | 245614
+    Total sentences                | 1973
+    Mean/median start offset       | -0.36/-0.18
+    Mean/median end offset         | -0.91/-0.77
+    Mean/median start offset (abs) | 0.80/0.40
+    Mean/median end offset (abs)   | 1.16/0.87
+    Frame-level accuracy           | 82.52
+    F1@0.10                        | 86.37
+    F1@0.25                        | 82.92
+    F1@0.50                        | 72.23
   ```
 
-### Final Outputs
+### File Output Structure
+
+You should expect the following output files, including intermediate segmentation and embedding as well as final alignment results.
 
 ```bash
+/users/zifan/BOBSL/sea_demo/
+├── aligned_subtitles
+│   ├── 5224144816887051284.vtt
+│   ├── 5242317681679687839.vtt
+│   ├── 5294309549287947552.vtt
+│   └── 5439409006429129628.vtt
+├── segmentation
+│   └── E4s-1_30_50
+│       ├── 5224144816887051284.eaf
+│       ├── 5224144816887051284_updated.eaf
+│       ├── 5242317681679687839.eaf
+│       ├── 5242317681679687839_updated.eaf
+│       ├── 5294309549287947552.eaf
+│       ├── 5294309549287947552_updated.eaf
+│       ├── 5439409006429129628.eaf
+│       └── 5439409006429129628_updated.eaf
+├── segmentation_embedding
+│   └── E4s-1_30_50
+│       └── sign_clip
+│           ├── 5224144816887051284.npy
+│           ├── 5242317681679687839.npy
+│           ├── 5294309549287947552.npy
+│           └── 5439409006429129628.npy
+└── subtitle_embedding
+    └── sign_clip
+        ├── 5224144816887051284.npy
+        ├── 5242317681679687839.npy
+        ├── 5294309549287947552.npy
+        └── 5439409006429129628.npy
 ```
 
 ### ELAN Visualization
