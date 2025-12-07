@@ -9,9 +9,7 @@
 - Recommended manager: `conda`
 - Setup:
   ```bash
-  conda create -n sea python=3.12
-  conda activate sea
-  pip install -r requirements.txt
+  conda env create -f environment.yml
   ```
 
 ## Run SEA (on BOBSL validation set for example)
@@ -35,7 +33,7 @@
 
 > See more on https://github.com/J22Melody/segmentation/tree/bsl.
 
-- Install [linguistic segmenter](https://aclanthology.org/2023.findings-emnlp.846/) to segment signs based on poses:
+- Install the [linguistic segmenter](https://aclanthology.org/2023.findings-emnlp.846/) to segment signs based on poses:
   ```
   pip install "git+https://github.com/J22Melody/segmentation@bsl"
   ```
