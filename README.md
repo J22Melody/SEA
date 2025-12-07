@@ -1,9 +1,8 @@
 # Segment, Embed, and Align: A Universal Recipe for Aligning Subtitles to Signing
 
 ## Paper Link
-- Title: _Segment, Embed, and Align: A Universal Recipe for Aligning Subtitles to Signing_
 - arXiv: `https://...`
-- Authors: `Zifan Jiang, Youngjoon Jang, Liliane Momeni, Gül Varol, Sarah Ebling, Andrew Zisserman`
+- Authors: Zifan Jiang, Youngjoon Jang, Liliane Momeni, Gül Varol, Sarah Ebling, Andrew Zisserman
 
 ## Environment
 - Python `3.12`
@@ -110,6 +109,8 @@
 ```
 
 ### ELAN Visualization
+
+<img width="1718" height="606" alt="image" src="https://github.com/user-attachments/assets/a54c14f1-1981-45d5-8af3-6d37ed61f4f8" />
 
 ## Citation
 ```
