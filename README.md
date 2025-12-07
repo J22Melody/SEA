@@ -19,7 +19,7 @@
 
 ### 0. Pose Estimation
 
-(See more on https://github.com/sign-language-processing/pose)
+> See more on https://github.com/sign-language-processing/pose.
 
 - Install [pose-format](https://arxiv.org/abs/2310.09066) to run MediaPipe Holistic pose estimation from videos:
   ```
@@ -34,7 +34,7 @@
 
 ### 1. Segment
 
-(See more on https://github.com/J22Melody/segmentation/tree/bsl)
+> See more on https://github.com/J22Melody/segmentation/tree/bsl.
 
 - Install [linguistic segmenter](https://aclanthology.org/2023.findings-emnlp.846/) to segment signs based on poses:
   ```
@@ -49,23 +49,25 @@
 
 ### 2. Embed (Optional)
 
-(See more on https://github.com/J22Melody/fairseq/tree/main/examples/MMPT#inference)
+> This step requires one GPU, the following tested on a NVIDIA Tesla P40 24GB. See more on https://github.com/J22Melody/fairseq/tree/main/examples/MMPT#inference.
 
 - Install [SignCLIP](https://aclanthology.org/2024.emnlp-main.518/) to embed text and signs (model weigths have to be downloaded):
   ```
   git clone git@github.com:J22Melody/fairseq.git
   cd fairseq
   conda env update -n sea -f environment_inference.yml
+  cd examples/MMPT
+  pip install .
   ```
 - Input: `*.pose, *.vtt`
 - Output: `*.npy` (embeddings for signing and subtitle units)
-- Example to embed subtitles:
-  ```bash
-   python scripts_bsl/extract_episode_features.py --video_ids ./data/bobsl_align_val.txt --mode=subtitle --model_name bsl --language_tag "<en> <bfi>" --batch_size=1024 --subtitle_dir ~/BOBSL/v1.4/automatic_annotations/signing_aligned_subtitles/audio_aligned_heuristic_correction --save_dir ~/BOBSL/sea_demo/subtitle_embedding/sign_clip
-  ```
 - Example to embed signs:
   ```bash
-  python scripts_bsl/extract_episode_features.py --video_ids ./data/bobsl_align_val.txt --mode=segmentation --model_name bsl --language_tag "<en> <bfi>" --batch_size=32 --segmentation_dir ~/BOBSL/sea_demo/segmentation/E4s-1_30_50 --save_dir ~/BOBSL/sea_demo/segmentation_embedding/E4s-1_30_50/sign_clip 
+  python scripts_bsl/extract_episode_features.py --video_ids ~/SEA/data/bobsl_align_val.txt --mode=segmentation --model_name bsl --language_tag "<en> <bfi>" --batch_size=32 --segmentation_dir ~/BOBSL/sea_demo/segmentation/E4s-1_30_50 --save_dir ~/BOBSL/sea_demo/segmentation_embedding/E4s-1_30_50/sign_clip 
+  ```
+- Example to embed subtitles:
+  ```bash
+   python scripts_bsl/extract_episode_features.py --video_ids ~/SEA/data/bobsl_align_val.txt --mode=subtitle --model_name bsl --language_tag "<en> <bfi>" --batch_size=1024 --subtitle_dir ~/BOBSL/v1.4/automatic_annotations/signing_aligned_subtitles/audio_aligned_heuristic_correction --save_dir ~/BOBSL/sea_demo/subtitle_embedding/sign_clip
   ```
 
 ### 3.a. Align without Embeddings (Segment and Align)
@@ -101,6 +103,13 @@
 - Output metrics (if ground truth is provided):
   ```bash
   ```
+
+### Final Outputs
+
+```bash
+```
+
+### ELAN Visualization
 
 ## Citation
 ```
