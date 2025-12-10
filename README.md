@@ -1,7 +1,7 @@
 # Segment, Embed, and Align: A Universal Recipe for Aligning Subtitles to Signing
 
 ## Paper Link
-- arXiv: `https://...`
+- [arXiv preprint](https://arxiv.org/abs/2512.08094)
 - Authors: Zifan Jiang, Youngjoon Jang, Liliane Momeni, Gül Varol, Sarah Ebling, Andrew Zisserman
 
 <img width="1318" height="507" alt="image" src="https://github.com/user-attachments/assets/795e8846-45bd-469c-80c8-1282991a1d38" />
@@ -159,8 +159,9 @@ You should expect the following output files, including intermediate segmentatio
 ```
 @article{jiang2025segment,
   title   = {Segment, Embed, and Align: A Universal Recipe for Aligning Subtitles to Signing},
-  author  = {Zifan Jiang and Youngjoon Jang and Liliane Momeni and G{\"u}l Varol and Sarah Ebling and Andrew Zisserman},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
-  year    = {2025}
+  author  = {Jiang, Zifan and Jang, Youngjoon and Momeni, Liliane and Varol, G{\"u}l and Ebling, Sarah and Zisserman, Andrew},
+  journal = {arXiv preprint arXiv:2512.08094},
+  year    = {2025},
+  url     = {https://arxiv.org/abs/2512.08094}
 }
 ```
