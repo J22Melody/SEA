@@ -299,8 +299,19 @@ def load_video_ids(args, mode):
     """
     if mode == "inference":
         print('inference')
-        with open(args.video_ids, "r") as f:
-            ids = [line.strip() for line in f if line.strip()]
+        if args.video_ids.lower() == "all":
+            if not os.path.isdir(args.pr_sub_path):
+                print(f"pr_sub_path not found: {args.pr_sub_path}")
+                return {"all": []}
+            video_ids = set()
+            for name in os.listdir(args.pr_sub_path):
+                if name.endswith(".vtt") or name.endswith(".srt"):
+                    video_ids.add(os.path.splitext(name)[0])
+            ids = sorted(video_ids)
+            print(f"Discovered {len(ids)} videos from pr_sub_path: {args.pr_sub_path}")
+        else:
+            with open(args.video_ids, "r") as f:
+                ids = [line.strip() for line in f if line.strip()]
         return {"all": ids}
     elif mode in ["dev", "training"]:
         with open(args.video_ids_train, "r") as f:

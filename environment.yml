@@ -66,7 +66,6 @@ dependencies:
       - matplotlib==3.10.1
       - mediapipe==0.10.21
       - ml-dtypes==0.5.1
-      - mmpt==0.0.1
       - mpmath==1.3.0
       - namex==0.0.8
       - networkx==3.4.2
@@ -114,6 +113,7 @@ dependencies:
       - sign-language-segmentation==0.0.1
       - six==1.17.0
       - sounddevice==0.5.1
+      - srt==3.5.3
       - sympy==1.13.1
       - tabulate==0.9.0
       - threadpoolctl==3.6.0

@@ -9,7 +9,7 @@ def get_args():
     # ----- Video ID Files -----
     parser.add_argument("--video_ids", type=str,
                         default="/users/zifan/subtitle_align/data/bobsl_align_val_1.txt",
-                        help="Path to text file with video ids (one per line).")
+                        help="Path to text file with video ids (one per line). Use 'all' to scan --pr_sub_path.")
     parser.add_argument("--video_ids_train", type=str,
                         default="/users/zifan/subtitle_align/data/bobsl_align_train.txt",
                         help="Path to text file with training video ids.")
