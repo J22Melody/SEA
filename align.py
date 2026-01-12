@@ -62,6 +62,7 @@ def process_video(video_id, args, dp_duration_penalty_weight, dp_gap_penalty_wei
         elan_signs = get_sign_segments_from_eaf(segmentation_file)
     else:
         raise FileNotFoundError(f"Segmentation {segmentation_file} does not exist!")
+    original_elan_signs = list(elan_signs)
     
     # If --cmpl is set, merge in additional signs from the CMPL segmentation directory,
     # using the passed overlapIoU threshold (cmpl_overlapIoU).
@@ -244,8 +245,22 @@ def process_video(video_id, args, dp_duration_penalty_weight, dp_gap_penalty_wei
         pass
 
     if save_elan and os.path.exists(segmentation_file):
-        additional_signs = {'CMPL': cmpl_signs, 'REFINE': refine_signs, 'CSLR': cslr_signs}
-        write_updated_eaf(segmentation_file, cues, video_id, signs, additional_signs=additional_signs)
+        additional_signs = {}
+        if args.cmpl and cmpl_signs:
+            additional_signs['CMPL'] = cmpl_signs
+        if args.refine and refine_signs:
+            additional_signs['REFINE'] = refine_signs
+        if args.cslr and cslr_signs:
+            additional_signs['CSLR'] = cslr_signs
+
+        include_sign_merged = signs != original_elan_signs
+        write_updated_eaf(
+            segmentation_file,
+            cues,
+            video_id,
+            signs if include_sign_merged else None,
+            additional_signs=additional_signs,
+        )
 
 def process_all_videos(video_ids, args, dp_dpw, dp_gpw, dp_ws, dp_mg, similarity_weight, output_dir, save_elan,
                        seg_model, seg_sign_b, seg_sign_o,

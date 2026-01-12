@@ -249,7 +249,7 @@ def write_updated_eaf(eaf_file, cues, video_id, signs=None, additional_signs={})
     # Process additional_signs dictionary for extra tiers.
     if additional_signs:
         for tier_key, tier_signs in additional_signs.items():
-            if isinstance(tier_signs, list):
+            if isinstance(tier_signs, list) and tier_signs:
                 tier_element = ET.Element("TIER", {"TIER_ID": tier_key, "LINGUISTIC_TYPE_REF": "default-lt"})
                 for i, sign in enumerate(tier_signs):
                     ts1 = f"{tier_key}_TS_{video_id}_{i}_1"
