@@ -229,7 +229,12 @@ def process_video(video_id, args, dp_duration_penalty_weight, dp_gap_penalty_wei
        visualize_similarity=args.visualize_similarity)
     
     # Apply post-alignment bias on the cues.
-    cues = shift_cues(cues, post_subs_delta_bias_start, post_subs_delta_bias_end)
+    cues = shift_cues(
+        cues,
+        post_subs_delta_bias_start,
+        post_subs_delta_bias_end,
+        no_overlap=args.post_subs_delta_bias_end_no_overlap,
+    )
     
     # If --cslr_partial_eval is set, filter cues to only those overlapping with CSLR signs.
     if args.cslr_partial_eval:

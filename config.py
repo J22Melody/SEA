@@ -44,6 +44,8 @@ def get_args():
     parser.add_argument("--post_subs_delta_bias_end", type=float, nargs='+',
                         default=[1.0],
                         help="Delta bias (seconds) added to the end time of each subtitle cue (post-alignment).")
+    parser.add_argument("--post_subs_delta_bias_end_no_overlap", action="store_true",
+                        help="Clamp post-alignment end bias so cues do not overlap the next cue.")
 
     # ----- Segmentation Files -----
     parser.add_argument("--segmentation_dir", type=str,

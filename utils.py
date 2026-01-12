@@ -78,14 +78,20 @@ def ensure_valid_vtt_format(vtt_content: str) -> str:
         vtt_content = "WEBVTT\n\n" + vtt_content
     return fix_vtt_format(vtt_content)
 
-def shift_cues(cues, delta_start: float, delta_end: float):
+def shift_cues(cues, delta_start: float, delta_end: float, no_overlap: bool = False):
     """
     Shift the start and end times of each cue (a dict with keys "start", "end", and "mid")
     by delta_start and delta_end seconds, respectively.
     """
-    for cue in cues:
+    for idx, cue in enumerate(cues):
         cue["start"] += delta_start
         cue["end"] += delta_end
+        if no_overlap and delta_end > 0 and idx + 1 < len(cues):
+            next_start = cues[idx + 1]["start"] + delta_start
+            if cue["end"] > next_start:
+                cue["end"] = next_start
+        if cue["end"] < cue["start"]:
+            cue["end"] = cue["start"]
         cue["mid"] = (cue["start"] + cue["end"]) / 2
     return cues
 
