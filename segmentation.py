@@ -2,6 +2,7 @@
 import argparse
 import os
 import subprocess
+import shlex
 from itertools import product
 from tqdm import tqdm
 import multiprocessing
@@ -35,15 +36,15 @@ def process_video(vid, args, model, sign_b, sign_o):
 
     # Build the pose_to_segments command using the current combination.
     cmd = (
-        f"pose_to_segments --no-pose-link --model={model} "
-        f"--pose={pose_file} --elan={elan_file} "
+        f"pose_to_segments --no-pose-link --model={shlex.quote(model)} "
+        f"--pose={shlex.quote(pose_file)} --elan={shlex.quote(elan_file)} "
         f"--sign-b-threshold {sign_b} --sign-o-threshold {sign_o}"
     )
 
     # Check for the video file.
     video_file = os.path.join(args.video_dir, f"{vid}.mp4")
     if os.path.exists(video_file):
-        cmd += f" --video=./{vid}.mp4"
+        cmd += f" --video={shlex.quote(f'./{vid}.mp4')}"
 
     # Check for the automatic subtitles file (.vtt or .srt)
     subtitle_file = None
@@ -53,7 +54,7 @@ def process_video(vid, args, model, sign_b, sign_o):
             subtitle_file = candidate
             break
     if subtitle_file:
-        cmd += f" --subtitles={subtitle_file}"
+        cmd += f" --subtitles={shlex.quote(subtitle_file)}"
 
     # Check for the manually corrected subtitles file (.vtt or .srt)
     subtitle_corrected_file = None
@@ -63,7 +64,7 @@ def process_video(vid, args, model, sign_b, sign_o):
             subtitle_corrected_file = candidate
             break
     if subtitle_corrected_file:
-        cmd += f" --subtitles-corrected={subtitle_corrected_file}"
+        cmd += f" --subtitles-corrected={shlex.quote(subtitle_corrected_file)}"
 
     # Run the command.
     print(cmd)
