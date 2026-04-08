@@ -1,0 +1,950 @@
+1
+00:00:05,232 --> 00:00:12,089
+Mit Untertiteln von SWISS TXT Guten Abend, willkommen zum Blick auf das Wichtige des Tages.
+
+2
+00:00:12,731 --> 00:00:15,023
+Heute schauen wir auf diese Themen:
+
+3
+00:00:17,355 --> 00:00:21,934
+Das BAG kontert die Kritik an seiner Impfstrategie - man sei auf Kurs.
+
+4
+00:00:24,626 --> 00:00:36,073
+Ein britisches Gericht lehnt die Auslieferung von WikiLeaks-Gründer Julian Assange an die USA aus gesundheitlichen Gründen ab.
+
+5
+00:00:37,835 --> 00:00:45,824
+Noch-US-Präsident Donald Trump sieht sich erneut mit dem Vorwurf des Machtmissbrauchs konfrontiert.
+
+6
+00:00:47,848 --> 00:00:58,334
+Die glückliche Geschichte eines Arbeitslosen, der auf der Suche nach einer neuen Stelle quer durch Frankreich strampelt.
+
+7
+00:00:59,925 --> 00:01:03,613
+Über dem Flachland bleibt es mit vielen Wolken meist grau.
+
+8
+00:01:05,990 --> 00:01:08,651
+Impfwillige gibt es viele.
+
+9
+00:01:09,339 --> 00:01:10,063
+Nur leider nicht genug Impfstoff.
+
+10
+00:01:10,705 --> 00:01:21,733
+Zwar ist heute in weiteren elf Kantonen die Impfaktion angelaufen - nur reicht es derzeit längst nicht für alle, die sich den Wirkstoff gegen COVID verpassen lassen wollen.
+
+11
+00:01:22,375 --> 00:01:25,211
+Die Kantone machen dafür den Bund verantwortlich.
+
+12
+00:01:26,765 --> 00:01:33,433
+Sei es im Tessin oder in Zürich: Medienwirksam wird geimpft, hier Schriftsteller Franz Hohler, 77 Jahre alt.
+
+13
+00:01:34,075 --> 00:01:38,430
+Und auch Schauspieler Walter Andreas Müller bekommt seine erste Dosis.
+
+14
+00:01:39,066 --> 00:01:41,763
+Für Zürich sei es ein grosser Tag, so die Regierungsrätin.
+
+15
+00:01:42,405 --> 00:01:45,723
+Doch können sich nicht alle impfen lassen, die das wollen.
+
+16
+00:01:46,364 --> 00:01:49,272
+Leider gibt es nur wenige verfügbare Impfdosen.
+
+17
+00:01:49,914 --> 00:01:51,962
+Stand heute haben wir 16'000.
+
+18
+00:01:52,604 --> 00:01:57,033
+Weil jede zweite Person zweimal geimpft werden muss, reicht es nur für 8'000 Personen.
+
+19
+00:01:57,676 --> 00:01:59,170
+Die Termine waren im Januar sofort vergeben.
+
+20
+00:01:59,804 --> 00:02:02,102
+Wir haben noch die Hausärzte, die uns die Hochrisikopatienten melden.
+
+21
+00:02:02,744 --> 00:02:04,843
+Das Unispital fängt morgen an.
+
+22
+00:02:05,485 --> 00:02:08,344
+Wir sind zuversichtlich, dass weitere Impfdosen dazukommen.
+
+23
+00:02:08,985 --> 00:02:13,693
+Auch im Kanton Appenzell Innerrhoden hofft man auf weitere Dosen und Zulassungen.
+
+24
+00:02:14,335 --> 00:02:16,832
+Etwa derjenigen der Herstellerin Moderna.
+
+25
+00:02:17,464 --> 00:02:26,133
+Im Moment ist der Impfstoff noch nicht zugelassen, aber man muss mit Szenarien arbeiten und wir gehen davon aus, dass das ab dem 11. Januar kommt.
+
+26
+00:02:26,774 --> 00:02:28,171
+Aber fix ist es noch nicht?
+
+27
+00:02:28,859 --> 00:02:29,571
+- Nein.
+
+28
+00:02:29,014 --> 00:02:33,223
+Die Kantone kommen jedoch nicht nur mit der Anzahl Dosen ans Limit.
+
+29
+00:02:33,864 --> 00:02:38,502
+Auch mit der IT-Lösung für die Impf-Dokumentation kommen sie an ihre Grenzen.
+
+30
+00:02:39,144 --> 00:02:44,971
+Der Bund habe den Kantonen diese IT zu spät zur Verfügung gestellt.
+
+31
+00:02:45,612 --> 00:02:46,323
+Das wusste man schon längere Zeit.
+
+32
+00:02:46,964 --> 00:02:51,382
+Und dann hätte man mit der Programmierung früher beginnen können.
+
+33
+00:02:52,024 --> 00:02:58,112
+Dass man jetzt mit einem neuen Programm etwas neu auf die Beine stellen muss, und das innerhalb weniger Tage einexerzieren muss, das kann nicht funktionieren.
+
+34
+00:02:58,754 --> 00:03:02,953
+Klar ist: Die ersten Impfdosen reichen noch nicht einmal für alle Hochrisikopatienten.
+
+35
+00:03:03,593 --> 00:03:07,993
+Trotzdem hofft man in Zürich, dass die breite Bevölkerung im April geimpft werden kann.
+
+36
+00:03:10,965 --> 00:03:15,021
+Zu wenig Impfstoff, Probleme auch bei der Umsetzung der Impfstrategie.
+
+37
+00:03:15,663 --> 00:03:17,782
+Das also die Kritik am Bundesamt für Gesundheit.
+
+38
+00:03:18,424 --> 00:03:25,212
+Doch beim BAG sieht man sich auf Kurs, wie die zuständige Abteilungsleiterin Nora Kronig im Interview erklärt.
+
+39
+00:03:26,494 --> 00:03:28,292
+Die Hoffnung ist riesig.
+
+40
+00:03:28,933 --> 00:03:32,651
+Alle erhoffen sich, dass wir durch den Impfstoff schnell zu einem Schluss der Pandemie kommen.
+
+41
+00:03:33,293 --> 00:03:37,812
+Es braucht einfach noch Geduld, bis wir im Sommer durchimpfen können.
+
+42
+00:03:38,454 --> 00:03:44,642
+Man hat Nachrichten aus anderen Ländern, z.B. Israel, gehört, die schon 1 Mio. Menschen geimpft haben.
+
+43
+00:03:45,283 --> 00:03:47,182
+Warum schafft Israel das und die Schweiz nicht?
+
+44
+00:03:47,823 --> 00:03:53,233
+Es ist immer ein bisschen schwierig, die Situationen in den unterschiedlichen Konstellationen zu vergleichen.
+
+45
+00:03:53,872 --> 00:04:04,611
+Wir haben seit Anfang geplant, dass wir im ersten Semester impfen können, dass bis im Sommer alle, die sich impfen lassen wollen, sich impfen lassen können.
+
+46
+00:04:05,252 --> 00:04:08,012
+Wir sind auf Kurs und sind zuversichtlich, das zu schaffen.
+
+47
+00:04:08,653 --> 00:04:13,492
+Man hat im Dezember 150'000 Dosen von BioNTech bekommen, und man hat gesagt, Anfang Januar komme mehr.
+
+48
+00:04:14,134 --> 00:04:15,723
+Weiss man, wann die nächsten Dosen kommen?
+
+49
+00:04:16,363 --> 00:04:17,872
+Heute sind sie gekommen. Wir haben 126'000 Dosen bekommen.
+
+50
+00:04:18,514 --> 00:04:20,634
+D.h., die zweite Lieferung ist schon da.
+
+51
+00:04:21,276 --> 00:04:31,764
+Wir schauen jetzt in die Zukunft, in Richtung Zulassung von Moderna, die wir uns bald erhoffen.
+
+52
+00:04:32,406 --> 00:04:34,603
+Die wird uns zusätzliche Dosen bringen.
+
+53
+00:04:35,245 --> 00:04:47,633
+Wir rechnen damit, dass wir im Januar ungefähr 0,5 Mio. Dosen haben, im Februar 1 Mio., ein bisschen mehr sogar, und dann bis im Sommer so weiterarbeiten können.
+
+54
+00:04:48,275 --> 00:04:55,241
+Man hat auch Kritik z.B. aus den Kantonen gehört - das IT-System sei nicht früh genug bereit gewesen.
+
+55
+00:04:55,883 --> 00:04:57,701
+Man habe die Leute nicht schulen können.
+
+56
+00:04:58,343 --> 00:04:58,091
+Da gibt es Probleme.
+
+57
+00:04:58,779 --> 00:04:59,811
+Was sagen Sie zu dieser Kritik?
+
+58
+00:05:01,633 --> 00:05:05,252
+Das IT-Tool funktioniert seit heute, das ist der nationale Impfstart.
+
+59
+00:05:05,892 --> 00:05:15,321
+Es wird eine gute Unterstützung sein, um die Impfungen, die die Kantone durchführen, zu fazilitieren und mitzuhelfen.
+
+60
+00:05:17,124 --> 00:05:20,571
+Das Thema Impfen steht heute auch bei "Puls" im Zentrum.
+
+61
+00:05:21,213 --> 00:05:26,854
+Die Sendung zeigt, welche Hoffnungen damit verknüpft und welche berechtigt sind.
+
+62
+00:05:27,496 --> 00:05:29,401
+Dazu gibt es auch einen Live-Chat, wo Sie Ihre Fragen stellen können.
+
+63
+00:05:30,043 --> 00:05:31,701
+Ab 21.05 Uhr auf SRF 1.
+
+64
+00:05:33,345 --> 00:05:45,741
+Und hier noch die aktuellen Corona-Fallzahlen für die Schweiz: Das Bundesamt für Gesundheit BAG meldet für die letzten vier Tage 9'665 neue Fälle von Personen, die positiv auf das Coronavirus getestet worden sind.
+
+65
+00:05:46,382 --> 00:05:49,891
+Damit liegt der Sieben-Tage-Schnitt bei 3'315.
+
+66
+00:05:50,533 --> 00:05:53,391
+3 % weniger als in der Vorwoche.
+
+67
+00:05:54,032 --> 00:05:58,832
+Allerdings sind in den letzten Tagen auch weniger Tests durchgeführt worden.
+
+68
+00:05:59,473 --> 00:06:02,516
+189 Menschen sind neu an den Folgen von COVID-19 gestorben.
+
+69
+00:06:03,158 --> 00:06:08,621
+Derzeit werden in Schweizer Spitälern 2'664 Personen behandelt.
+
+70
+00:06:11,072 --> 00:06:15,212
+Für die USA ist er ein Verräter, für andere ein Held: Julian Assange.
+
+71
+00:06:15,852 --> 00:06:22,973
+Zurzeit sitzt der Gründer von WikiLeaks in einem Hochsicherheitstrakt in einem Gefängnis in London.
+
+72
+00:06:23,608 --> 00:06:29,393
+Zuvor verbrachte er fast sieben Jahre in Isolation in der ecuadorianischen Botschaft.
+
+73
+00:06:30,034 --> 00:06:34,491
+Nicht erstaunlich, dass sich Julian Assange in gesundheitlich besorgniserregendem Zustand befindet.
+
+74
+00:06:35,843 --> 00:06:37,882
+Auch deshalb hat heute ein Gericht in London entschieden:
+
+75
+00:06:38,523 --> 00:06:41,071
+Assange soll nicht an die USA ausgeliefert werden.
+
+76
+00:06:43,353 --> 00:06:46,341
+Heute ist ein Sieg für Julian.
+
+77
+00:06:46,990 --> 00:06:51,355
+Der erste Schritt für Gerechtigkeit in diesem Fall.
+
+78
+00:06:51,994 --> 00:07:01,150
+Jubel bei seiner Verlobten und seinen Anhängern, denn das Urteil, Assange nicht an die USA auszuliefern, war so nicht erwartet worden.
+
+79
+00:07:01,782 --> 00:07:05,611
+Angeklagt ist Assange von den USA wegen Verstössen gegen das Spionagesetz.
+
+80
+00:07:06,252 --> 00:07:10,071
+Grund sind seine Enthüllungen. Dieses Video sorgte 2010 weltweit für Schlagzeilen.
+
+81
+00:07:10,711 --> 00:07:12,951
+Es zeigt, wie die US-Armee Zivilisten erschiesst.
+
+82
+00:07:13,593 --> 00:07:17,392
+Spätestens seitdem sind Assanges Aktivitäten ein Problem für die US-Regierung.
+
+83
+00:07:18,033 --> 00:07:28,642
+Die USA verurteilen die illegale Veröffentlichung von geheimen Informationen, denn es bringt Menschenleben in Gefahr und bedroht unsere nationale Sicherheit.
+
+84
+00:07:29,286 --> 00:07:32,464
+Mit seiner Plattform WikiLeaks beschritt Assange 2006 Neuland.
+
+85
+00:07:33,102 --> 00:07:35,480
+Dokumente können anonym hochgeladen werden.
+
+86
+00:07:36,122 --> 00:07:41,461
+In der Folge brachte der Enthüllungsaktivist mehr geheime Informationen an die Öffentlichkeit als jeder andere.
+
+87
+00:07:42,102 --> 00:07:45,841
+2012 suchte Assange in der Londoner Botschaft Ecuadors Zuflucht.
+
+88
+00:07:46,483 --> 00:07:51,889
+2019 wurde ihm das politische Asyl entzogen und die britische Polizei nahm ihn fest.
+
+89
+00:07:52,531 --> 00:07:58,047
+Seither ist er in einem Hochsicherheitsgefängnis für Schwerverbrecher und Terroristen inhaftiert.
+
+90
+00:07:58,689 --> 00:08:03,411
+Die Richterin sagte heute, Assange sei durch die lange Isolation depressiv und suizidgefährdet.
+
+91
+00:08:04,053 --> 00:08:05,625
+Deshalb sei von einer Auslieferung abzusehen.
+
+92
+00:08:06,255 --> 00:08:11,000
+Ein Sieg für die Menschlichkeit, nicht aber für das, wofür Assange einsteht.
+
+93
+00:08:11,642 --> 00:08:15,090
+Zu 99 % unterstützte die Richterin die Auslieferung.
+
+94
+00:08:15,732 --> 00:08:25,449
+Erst in den letzten 2 Min. sagte sie: "Die amerikanischen Gefängnisse sind zu brutal, um Assange das anzutun."
+
+95
+00:08:29,074 --> 00:08:32,980
+Es wird erwartet, dass die USA den Fall weiterziehen werden.
+
+96
+00:08:33,621 --> 00:08:37,558
+Bis Mittwoch will das britische Gericht entscheiden, ob Assange auf Kaution freikommt.
+
+97
+00:08:38,903 --> 00:08:40,571
+Ein Etappensieg also für Julian Assange und seine Anhängerschaft.
+
+98
+00:08:41,212 --> 00:08:43,770
+Aber, Henriette Engbersen, mehr als das ist es nicht?
+
+99
+00:08:56,932 --> 00:09:07,202
+Denn wie angekündigt, man geht davon aus, dass die USA den Fall weiterziehen werden an die nächste Instanz.
+
+100
+00:09:07,843 --> 00:09:13,135
+Der ganze Prozess könnte am Ende sogar beim europäischen Gerichtshof für Menschenrechte landen.
+
+101
+00:09:13,772 --> 00:09:19,828
+Beobachter gehen davon aus, dass es noch Monate dauern wird, bis wir wissen, ob Julian Assange ausgeliefert wird oder nicht.
+
+102
+00:09:20,471 --> 00:09:29,570
+Der Entscheid kam eigentlich überraschend, denn zuvor hatte die Richterin inhaltlich die Position der USA unterstützt, die Assange wegen Spionage anklagen wollen.
+
+103
+00:09:30,211 --> 00:09:35,582
+Genau.
+
+104
+00:09:38,312 --> 00:09:46,370
+Die Richterin kommt zum Schluss, dass Assange mehr war als nur ein Investigation Journalist.
+
+105
+00:09:47,010 --> 00:09:52,369
+Er habe Leute angestiftet, Dokumente hoch zu laden.
+
+106
+00:09:53,039 --> 00:09:46,531
+Das ist gemäss USA ein Verstoss gegen das Spionagegesetz.
+
+107
+00:10:00,826 --> 00:10:05,871
+Aber zu diesem Thema ist das letzte Wort wohl auch noch nicht gesprochen.
+
+108
+00:10:06,514 --> 00:10:07,720
+Bei diesem Fall wird Neuland betreten.
+
+109
+00:10:08,360 --> 00:10:14,729
+Julian Assange passt eigentlich nicht in die alten Schubladen wie Journalist oder Spionage.
+
+110
+00:10:15,370 --> 00:10:20,522
+Erst durch das digitale Zeitalter wurde sein tun überhaupt möglich.
+
+111
+00:10:21,163 --> 00:10:23,611
+Seine Aktionen beinhalteten auch journalistische Tätigkeiten.
+
+112
+00:10:24,252 --> 00:10:32,449
+Die Gesetze, nach denen er angeklagt wird, stammen aber aus der Zeit vor der Digitalisierung.
+
+113
+00:10:33,091 --> 00:10:34,565
+Das fordert die Justiz heraus.
+
+114
+00:10:35,201 --> 00:10:28,531
+Eine der kommenden Instanzen wird sich damit wohl genauer auseinandersetzen müssen.
+
+115
+00:10:29,259 --> 00:10:32,611
+
+116
+00:10:40,712 --> 00:10:42,745
+Und wir bleiben in Grossbritannien.
+
+117
+00:10:43,380 --> 00:10:49,601
+Dort wurde der heutige Tag mit besonderer Spannung erwartet: der erste Arbeitstag, an dem das Brexitabkommen gilt, sprich, das Königreich nicht mehr zum EU-Binnenmarkt gehört.
+
+118
+00:10:50,243 --> 00:10:53,839
+Das befürchtete Chaos an der Zollabfertigung in Calais in Frankreich ist bis jetzt ausgeblieben.
+
+119
+00:10:54,481 --> 00:10:58,199
+Wie schon in den ersten Neujahrstagen floss der Verkehr auch heute ganz zügig.
+
+120
+00:10:58,841 --> 00:11:02,550
+Ähnlich ruhig blieb es auf der anderen Seite des Kanals im britischen Dover.
+
+121
+00:11:03,191 --> 00:11:07,269
+Nach Angaben der Behörden sei das geringe Verkehrsaufkommen allerdings typisch für die Neujahrstage.
+
+122
+00:11:07,911 --> 00:11:15,079
+Die Auswirkungen der neuen Zollformalitäten könnten sich bei höherem Verkehrsaufkommen zu einem späteren Zeitpunkt noch bemerkbar machen.
+
+123
+00:11:17,142 --> 00:11:23,458
+Henriette Engbersen, war heute im Londoner Alltag von dieser neuen Ära etwas spürbar?
+
+124
+00:11:35,141 --> 00:11:37,108
+nein.
+
+125
+00:11:37,750 --> 00:11:43,109
+Auf den Strassen war das nicht spürbar.
+
+126
+00:11:44,760 --> 00:11:47,629
+Die Leute waren natürlich viel mehr mit Corona beschäftigt.
+
+127
+00:11:48,269 --> 00:11:50,159
+Aber in den Unternehmen war das sehr wohl spürbar.
+
+128
+00:11:50,801 --> 00:11:58,664
+Alle Güter, die in die EU exportiert werden sollen, brauchen zusätzliche Deklarationspapiere.
+
+129
+00:11:59,300 --> 00:12:04,649
+Also mehr Papierkram, mehr Zeitpunkt und auch Mehrkosten.
+
+130
+00:12:09,782 --> 00:12:14,998
+Gerade die kleinen Unternehmen, die bereits unter der COVID-Krise leiden, ist das eine besondere Herausforderung.
+
+131
+00:12:12,819 --> 00:12:13,971
+
+132
+00:12:18,031 --> 00:12:28,423
+Ein Präsident, der einen anderen ranghohen Politiker auffordert, Stimmen zu finden, um so das längst beglaubigte Wahlergebnis noch zu seinen Gunsten zu drehen - das hat sich vor Kurzem in den USA zugetragen.
+
+133
+00:12:29,066 --> 00:12:40,029
+Dreiste Machenschaften von Donald Trump, die die "Washington Post" just auf die Senatswahlen in Georgia aufgedeckt hat - mit einer entsprechenden Tonaufnahme.
+
+134
+00:12:41,723 --> 00:13:01,229
+Und das hört sich so an: Dass Donald Trump das Wahlergebnis anzweifelt, ist nichts Neues.
+
+135
+00:13:01,870 --> 00:13:07,440
+Nun aber ist erstmals im O-Ton zu hören, wie er am Telefon Verantwortliche unter Druck setzt.
+
+136
+00:13:08,081 --> 00:13:11,378
+Die Demokraten sind empört.
+
+137
+00:13:12,019 --> 00:13:16,804
+Die zukünftige Vizepräsidentin Kamala Harris spricht Klartext.
+
+138
+00:13:17,440 --> 00:13:22,091
+Das war sicherlich ein Akt purer Verzweiflung.
+
+139
+00:13:22,779 --> 00:13:23,228
+Ziemlich sicher.
+
+140
+00:13:23,869 --> 00:13:33,768
+Aber es war auch ein dreister Machtmissbrauch des Präsidenten der Vereinigten Staaten.
+
+141
+00:13:34,403 --> 00:13:41,263
+Eine geschlagene Stunde lang redete der Präsident auf die Vertreter Georgias ein, drohte immer mal wieder - alles vergebens.
+
+142
+00:13:41,900 --> 00:14:01,294
+Brad Raffensperger, republikanischer Staatssekretär Georgias, beharrt: Der Inhalt des Telefongesprächs ist zwar kaum überraschend, doch ist es ein historischer Tiefpunkt für die USA, dem Präsidenten beim Verrat an der Demokratie zuzuhören.
+
+143
+00:14:01,929 --> 00:14:15,463
+Die Enthüllungen könnten den Graben innerhalb der Republikanischen Partei vertiefen. Den Graben zwischen jenen, die Trump aus Eigennutz weiter die Treue halten, und jenen, die ihn gerne loswerden möchten.
+
+144
+00:14:16,099 --> 00:14:25,738
+Sei es, weil sie sich tatsächlich um die Demokratie sorgen oder weil ihnen Trump bei der Verwirklichung ihrer eigenen Machtansprüche bald nur noch im Weg steht.
+
+145
+00:14:26,379 --> 00:14:31,957
+So ist der republikanische Staatssekretär Brad Raffensperger mittlerweile Hassobjekt leidenschaftlicher Trump-Anhänger.
+
+146
+00:14:32,599 --> 00:14:39,148
+Und es ist wohl auch kein Zufall, dass gerade in Bezug auf Georgia die Nerven blank liegen.
+
+147
+00:14:39,789 --> 00:14:42,708
+Denn dort finden morgen die Nachwahlen für den Senat statt.
+
+148
+00:14:43,350 --> 00:14:48,078
+Sollten die Republikaner beide Sitze verlieren, verlören sie auch ihre Mehrheit im Senat.
+
+149
+00:14:50,960 --> 00:14:57,388
+Die Ölvereinigung OPEC berät dieser Tage, wie viel Öl sie ab Februar fördern will.
+
+150
+00:15:08,709 --> 00:15:15,769
+Die weltweite Nachfrage dürfte in zehn bis 15 Jahren den Höhepunkt erreichen und dann für immer zurückgehen.
+
+151
+00:15:21,049 --> 00:15:24,626
+80 Jahre lang wurde gebohrt, was das Zeug hält.
+
+152
+00:15:25,269 --> 00:15:32,386
+Die Nachfrage nach Erdöl stieg zeitweise so stark, dass man sich Sorgen machte, ob es denn genug des schwarzen Goldes im Boden hat.
+
+153
+00:15:33,029 --> 00:15:37,208
+Doch dann tauchten sie auf: die Teslas und andere Elektroautos.
+
+154
+00:15:37,849 --> 00:15:46,029
+Viel schneller als erwartet erobern sie die Strassen, ersetzen reine Benzin- und Dieselfahrzeuge und reduzieren so die Nachfrage nach Öl.
+
+155
+00:15:46,669 --> 00:15:52,107
+Besonders in den Industrieländern, sagt Ölexpertin Cornelia Meyer.
+
+156
+00:15:52,749 --> 00:15:58,483
+Diese haben die Infrastruktur für mehr Elektrofahrzeuge und entsprechende Anpassungen.
+
+157
+00:15:59,118 --> 00:16:10,657
+Entwicklungsländer haben erstens weniger Geld, zweitens eine kleinere Infrastruktur und drittens einen wachsenden Mittelstand, der sich gerne fortbewegen würde.
+
+158
+00:16:11,299 --> 00:16:19,413
+Auch wenn man sich künftig in Entwicklungs- oder Schwellenländern nicht primär mit Elektroautos fortbewegt - der Boom in den reicheren Ländern ist Tatsache.
+
+159
+00:16:20,048 --> 00:16:25,307
+Und er hat enormen Einfluss auf die weltweite Ölnachfrage.
+
+160
+00:16:25,949 --> 00:16:35,664
+Denn allein der Transport macht 57 % der gesamten Nachfrage aus. Transport meint v.a. Autos und Lastwagen, die Fliegerei ist nur ein kleiner Teil davon.
+
+161
+00:16:36,308 --> 00:16:44,027
+Auch die Nachfrage aus den übrigen Sektoren Industrie, Wohnen, Landwirtschaft und Elektrizität spielt eine untergeordnete Rolle.
+
+162
+00:16:44,668 --> 00:16:49,343
+Das schwarze Gold verliert weltweit an Bedeutung.
+
+163
+00:16:49,978 --> 00:16:54,085
+Die klassischen Ölfirmen müssen umdenken:
+
+164
+00:16:54,718 --> 00:17:07,566
+Viele dieser Ölfirmen sehen sich immer mehr, v.a. in Europa, nicht mehr nur als Ölfirmen, sondern auch als Energiefirmen und fokussieren auch auf alternative Energiequellen.
+
+165
+00:17:08,208 --> 00:17:12,116
+Gemeint sind Sonnen-, Wind- und Wasserenergie.
+
+166
+00:17:12,758 --> 00:17:16,105
+Sie sollen das Auto der Zukunft antreiben.
+
+167
+00:17:18,779 --> 00:17:25,694
+Sich abstrampeln für einen Job - das hat dieser Mann aus Frankreich wortwörtlich getan.
+
+168
+00:17:26,338 --> 00:17:31,054
+Arbeitslos geworden, hielt er sich jahrelang mit befristeten Kurzjobs über Wasser.
+
+169
+00:17:31,688 --> 00:17:43,184
+Nach über 200 Bewerbungen, die mehrheitlich unbeantwortet blieben, hatte der Mann genug, setzte sich kurzentschlossen auf sein Velo, um das ganze Land nach einem neuen Job abzuklappern.
+
+170
+00:17:43,817 --> 00:17:47,531
+Eine Tour de France - mit Happy End.
+
+171
+00:17:49,469 --> 00:17:53,176
+Am Steuer dieses Cars sitzt ein hochzufriedener Jean-Antoine.
+
+172
+00:17:53,818 --> 00:17:55,846
+Das ist wirklich ein Traumberuf.
+
+173
+00:17:56,483 --> 00:17:59,663
+Ich hätte nicht gedacht, dass alles so gut laufen würde.
+
+174
+00:18:00,305 --> 00:18:03,737
+Denn der Weg zum Traumberuf war für den Arbeitslosen lang.
+
+175
+00:18:04,379 --> 00:18:07,206
+3'186 km lang, um genau zu sein.
+
+176
+00:18:10,299 --> 00:18:13,372
+Nicht im Car allerdings, sondern auf dem Velo.
+
+177
+00:18:14,005 --> 00:18:17,356
+Es war vor eineinhalb Jahren, als Jean-Antoine sich aufmachte.
+
+178
+00:18:17,997 --> 00:18:19,986
+Ich wollte überall nach einem Job zu suchen.
+
+179
+00:18:20,628 --> 00:18:23,334
+Auch mit über 50 gehört man nicht zum alten Eisen.
+
+180
+00:18:23,969 --> 00:18:30,786
+Eine verrückte Aufgabe, die sich der 56-Jährige gestellt hatte: einfach loszupedalen und in allen Regionen nach Arbeit zu suchen.
+
+181
+00:18:31,428 --> 00:18:38,582
+Aufgebrochen in den Vogesen, fuhr er nach Toulouse, Bordeaux, Paris, bevor er wieder in sein Dorf zurückkehrte.
+
+182
+00:18:39,217 --> 00:18:41,551
+Ich weine vor Glück, es geschafft zu haben.
+
+183
+00:18:42,186 --> 00:18:47,838
+Drei intensive Monate für einen, der zuvor noch kaum je auf einem Rad gesessen hatte.
+
+184
+00:18:48,479 --> 00:18:54,123
+Am meisten beeindruckt hat mich die Hilfsbereitschaft der Menschen, die ich angetroffen habe.
+
+185
+00:18:54,757 --> 00:19:01,310
+Nach seiner Tour 15 kg leichter, hat Jean-Antoine inzwischen seine Radlerkluft gegen eine Chauffeuruniform getauscht.
+
+186
+00:19:03,899 --> 00:19:14,825
+Er hat mit 56 Jahren einen unbefristeten Arbeitsvertrag erhalten, nach sieben Jahren von Kleinstjobs durchbrochener Arbeitslosigkeit eine Art Wiedergeburt.
+
+187
+00:19:15,467 --> 00:19:20,866
+Das Blatt hat sich für mich gewendet, indem ich einfach von einem Tag zum anderen losgestrampelt bin.
+
+188
+00:19:21,508 --> 00:19:30,154
+Es war diese Entschlossenheit, die seinen neuen Arbeitgeber überzeugt hat, ihm einen fixen Halbtagsjob zu geben, entlohnt mit 700 Euro monatlich.
+
+189
+00:19:30,787 --> 00:19:33,525
+Mich haben seine Motivation, seine Ernsthaftigkeit sehr beeindruckt.
+
+190
+00:19:34,167 --> 00:19:41,472
+Es ist das erste Mal, dass einer nach zwei Sätzen gleich Ja gesagt hat.
+
+191
+00:19:42,107 --> 00:19:44,865
+Sein neuer Arbeitsalltag macht Jean-Antoine glücklich.
+
+192
+00:19:45,507 --> 00:19:45,931
+Bonjour.
+
+193
+00:19:49,837 --> 00:19:53,801
+Komm das nächste Mal mit mir, ich habe ein Tandem.
+
+194
+00:19:54,436 --> 00:19:57,931
+Denn aufs Velo steigt der 56-Jährige immer noch täglich. Für seinen Weg zu Arbeit.
+
+195
+00:20:01,020 --> 00:20:14,592
+Jetzt zum nächsten Teil unserer Serie zum Jahresauftakt, in der wir anlässlich des 50-Jahr-Jubiläums des Frauenstimmrechts in der Schweiz Frauen portraitieren, die in diesem Jahr vor besonderen Herausforderungen stehen.
+
+196
+00:20:15,226 --> 00:20:25,675
+Und das trifft auf die Künstlerin, um die es jetzt geht, beruflich und privat zu: die erste und einzige Schweizerin, die je den deutschen Comedy-Preis gewonnen hat.
+
+197
+00:20:26,317 --> 00:20:28,575
+Und noch dazu hochschwanger ist.
+
+198
+00:20:29,928 --> 00:20:41,315
+2021 wird ein besonderes Jahr für mich, weil ich erstens Mutter werde, und zweitens, ich glaube, ich darf dann endlich wieder auftreten.
+
+199
+00:20:41,957 --> 00:20:41,731
+Ich freue mich schon sehr darauf.
+
+200
+00:20:42,419 --> 00:20:44,182
+Falls ich es noch kann.
+
+201
+00:20:48,857 --> 00:20:53,278
+Ich habe im Rahmen der Corona-Krise gemerkt, dass mir Geld gar nicht so wichtig ist.
+
+202
+00:20:53,919 --> 00:20:58,295
+Es gab einen Tag im März, an dem ich einen riesigen Betrag verloren habe.
+
+203
+00:20:58,945 --> 00:21:00,337
+Und es war mir eigentlich egal.
+
+204
+00:21:00,979 --> 00:21:07,375
+Ich glaube, für eine Schweizerin ist das sehr untypisch und für eine Businessfrau noch untypischer.
+
+205
+00:21:08,017 --> 00:21:15,863
+Corona hat auch für Hazel Brugger alles verändert. Ihr Bühnenprogramm gibt's jetzt auf Netflix statt als Tournee.
+
+206
+00:21:16,505 --> 00:21:22,807
+Die Aufzeichnung im Sommer war einer ihrer wenigen Liveauftritte in diesem Jahr.
+
+207
+00:21:23,448 --> 00:21:27,219
+Da war ein Vorhang, da musste ich durch.
+
+208
+00:21:27,860 --> 00:21:30,503
+Ich musste aber noch ganz dringend aufs Klo, bevor es losging.
+
+209
+00:21:31,145 --> 00:21:35,162
+Aber dann hätten alle gewusst, dass ich auf dem Klo war. Mein Klo war ganz dort hinten, wo WC steht.
+
+210
+00:21:35,797 --> 00:21:42,971
+Also habe ich einfach in diesen Busch da hinten gepinkelt. Im Stehen, so.
+
+211
+00:21:43,939 --> 00:21:48,054
+Eigentlich eine super Sicht.
+
+212
+00:21:48,695 --> 00:21:53,287
+Hazel Brugger sorgt selbst dafür, dass die Aussichten gut bleiben.
+
+213
+00:21:53,928 --> 00:22:02,817
+Zusammen mit ihrem Partner Thomas Spitzer bespielt sie einen YouTube-Kanal und einen Podcast, der sogar Geld einbringt.
+
+214
+00:22:03,459 --> 00:22:05,412
+Brugger ist nicht nur Comedienne, sondern Unternehmerin.
+
+215
+00:22:06,046 --> 00:22:08,004
+Das Internet macht's möglich.
+
+216
+00:22:08,646 --> 00:22:15,362
+Was total gruselig ist am Internet: Lügen werden viel, viel schneller verbreitet als die Wahrheit.
+
+217
+00:22:15,996 --> 00:22:17,771
+Gibt's auch Lügen über dich?
+
+218
+00:22:18,459 --> 00:22:19,035
+- Natürlich, ganz viele.
+
+219
+00:22:19,676 --> 00:22:20,595
+Zum Beispiel?
+
+220
+00:22:21,237 --> 00:22:26,294
+"Die böseste Frau der Schweiz" - ich bin doch ganz sweet.
+
+221
+00:22:26,936 --> 00:22:32,164
+Das ist mein Ziel für 2021, dass mich niemand mehr so nennt.
+
+222
+00:22:32,806 --> 00:22:34,780
+Moment, Moment!
+
+223
+00:22:35,416 --> 00:22:41,742
+Mir war schon immer wichtig, dass ich nicht so eine typische Girlie-Frau bin auf der Bühne.
+
+224
+00:22:42,376 --> 00:22:50,131
+Wenn ich jetzt einen kurzen Minirock aus Leder anhätte, dann könnte ich mir auch einen Sombrero aufsetzen und sagen: "Es sind jetzt Mexiko-Wochen bei Hazel."
+
+225
+00:22:50,819 --> 00:22:52,815
+Es wäre eine Kostümierung.
+
+226
+00:22:53,456 --> 00:23:00,342
+Hazel Brugger bleibt sich treu - und hat doch an Format gewonnen.
+
+227
+00:23:00,976 --> 00:23:11,534
+Wenn ich das so in einen Satz packen müsste, was ich Frauen auf den Weg geben will, dann: Überlegt euch einfach nur, wie es sich anfühlt, und nicht, wie es aussieht.
+
+228
+00:23:12,176 --> 00:23:14,573
+Egal, was ihr macht.
+
+229
+00:23:17,059 --> 00:23:23,414
+Und jetzt ist Urs Gredig hier mit der Vorschau auf "10 vor 10": Wann und wo kann ich mich endlich impfen lassen?
+
+230
+00:23:24,056 --> 00:23:25,704
+Diese Frage treibt derzeit viele um.
+
+231
+00:23:26,346 --> 00:23:30,434
+Die Behörden sagen, bald könne pro Tag zu Tausenden das Vakzin verabreicht werden.
+
+232
+00:23:34,405 --> 00:23:40,963
+Und: Morgen entscheidet sich bei den Senatsnachwahlen im US-Bundesstaat Georgia, wie frei Präsident Joe Biden künftig regieren kann.
+
+233
+00:23:41,606 --> 00:23:48,044
+Entsprechend umstritten ist der Wahlkampf und Donald Trumps Rolle dabei. Wir schalten live nach Georgia - um 10 vor 10.
+
+234
+00:23:48,685 --> 00:23:49,803
+Danke, Urs.
+
+235
+00:23:51,395 --> 00:23:53,454
+Und damit sind wir am Schluss dieser "Tagesschau".
+
+236
+00:23:54,096 --> 00:23:55,683
+Hier geht's weiter mit "Meteo" und dann folgt "1 gegen 100".
+
+237
+00:23:56,325 --> 00:23:58,544
+Ihnen einen gemütlichen Abend und bis morgen.
+
+238
+00:31:06,804 --> 00:31:08,390
+Einen schönen Abend.
+

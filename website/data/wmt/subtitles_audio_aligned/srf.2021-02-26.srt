@@ -1,0 +1,952 @@
+1
+00:00:08,154 --> 00:00:10,204
+Guten Abend, meine Damen und Herren.
+
+2
+00:00:10,845 --> 00:00:23,079
+Hier ist die "Tagesschau", und das sind die Themen heute Freitag: In der Waadt ist bereits jede vierte Person immun gegen Corona, in Zürich nicht mal jede zehnte.
+
+3
+00:00:23,721 --> 00:00:26,003
+Was trägt mehr zur Herdenimmunität bei?
+
+4
+00:00:28,485 --> 00:00:35,084
+US-Präsident Joe Biden hat erstmals offiziell einen Militäreinsatz befohlen - gegen pro-iranische Rebellen.
+
+5
+00:00:37,784 --> 00:00:45,673
+Europaweit ist kaum ein Land so gut durch die Krise gekommen - u.a. wegen weniger strikter Einschränkungen.
+
+6
+00:00:48,764 --> 00:00:55,143
+Das Buch einer Autorin aus Spitzbergen macht den Klimawandel spürbar.
+
+7
+00:00:55,785 --> 00:00:59,013
+Ein neuer Klimabericht der Vereinten Nationen schlägt Alarm.
+
+8
+00:01:00,796 --> 00:01:05,923
+In den Bergen immer sonniger, im Flachland weiter bewölkt, mit Bise frisch.
+
+9
+00:01:07,565 --> 00:01:10,483
+Immun sein gegen das Coronavirus - das wünschen sich die meisten.
+
+10
+00:01:11,125 --> 00:01:16,043
+Fakt ist: Es sind noch relativ wenige, wobei die Zahlen in der Schweiz von Region zu Region schwanken.
+
+11
+00:01:16,685 --> 00:01:24,211
+Das wiederum ist für die Forschung interessant, wenn es um die Frage geht, wie die sog. Herdenimmunität erreicht werden kann.
+
+12
+00:01:27,734 --> 00:01:37,033
+Zürich und Lausanne - in puncto Immunität gegen das Coronavirus sind die beiden Kantonshauptstädte und v.a. die beiden Kantone Zürich und Waadt ziemlich unterschiedlich.
+
+13
+00:01:37,676 --> 00:01:39,313
+Auf der einen Seite wäre die Waadt.
+
+14
+00:01:39,954 --> 00:01:45,533
+Jede vierte Personen hier hat laut einer Studie hier Antikörper gegen das Coronavirus.
+
+15
+00:01:46,175 --> 00:01:52,833
+Es ist eine gute Neuigkeit, bei 25 % zu sein und nicht bei 10 oder 5.
+
+16
+00:01:54,644 --> 00:01:56,712
+Weil das heisst, dass wir schon ein gewisses Schutzniveau haben.
+
+17
+00:01:57,354 --> 00:01:59,233
+Das können wir mit der Impfung ergänzen.
+
+18
+00:01:59,874 --> 00:02:05,742
+Eine gute Nachricht insofern, als dass weniger Menschen riskieren, wegen der Krankheit ins Spital zu müssen oder zu sterben.
+
+19
+00:02:06,385 --> 00:02:10,242
+Auch im Kanton Genf waren Ende Jahr bereits 22 % der Personen immun.
+
+20
+00:02:10,883 --> 00:02:14,492
+In den Kantonen Luzern und Bern sind es deutlich weniger.
+
+21
+00:02:15,133 --> 00:02:17,892
+Am wenigsten sind es im Kanton Zürich mit 8 %.
+
+22
+00:02:18,534 --> 00:02:21,435
+Dennoch möchte man nicht mit der Westschweiz tauschen.
+
+23
+00:02:22,076 --> 00:02:32,212
+Dass erst 8 % der Personen Antikörper aufweisen, die sog. Seroprävalenz bei 8 % liegt, zeige, dass die Schutzmassnahmen funktioniert hätten.
+
+24
+00:02:32,853 --> 00:02:34,942
+Mir sind 8 % lieber.
+
+25
+00:02:35,584 --> 00:02:39,963
+Es bedeutet, dass sich gut 8 % angesteckt haben.
+
+26
+00:02:40,603 --> 00:02:47,012
+Und jetzt müssen wir diese Seroprävalenz mit dem Impfen erhöhen.
+
+27
+00:02:47,019 --> 00:02:53,673
+Aber ich denke, das ist die sicherere, viel kontrollierbarere Art als mit Infektionen.
+
+28
+00:02:52,099 --> 00:02:58,051
+Das Ziel ist also, eine hohe Zeroprävalenz zu haben.
+
+29
+00:02:56,984 --> 00:02:59,915
+Dass also viele Personen Antikörper haben und dadurch immun sind.
+
+30
+00:03:00,555 --> 00:03:03,912
+Doch was heisst es nun, wenn in der Waadt jede vierte Person immun ist?
+
+31
+00:03:04,553 --> 00:03:13,401
+Bei der Experten-Konferenz des Bundes meint man dazu: Es ist interessant zu wissen, dass Personen nach einer Infektion immun sind.
+
+32
+00:03:14,044 --> 00:03:15,893
+Das könnte auch für die Geimpften gelten.
+
+33
+00:03:16,534 --> 00:03:20,603
+Mit diesen zusammen könnte man eine Herdenimmunität kreieren.
+
+34
+00:03:21,245 --> 00:03:24,452
+Aber davon sind wir noch sehr weit weg.
+
+35
+00:03:25,093 --> 00:03:27,312
+Noch sind also zu wenig Personen immun.
+
+36
+00:03:27,953 --> 00:03:30,250
+Sowohl in der Waadt als auch im Kanton Zürich.
+
+37
+00:03:32,193 --> 00:03:36,784
+Der Streit um offene Restaurantterrassen in Skigebieten scheint beigelegt.
+
+38
+00:03:37,426 --> 00:03:39,026
+Heute haben die letzten Kantone eingelenkt.
+
+39
+00:03:39,658 --> 00:03:52,473
+Wenn auch etwas zerknirscht und mit Bedauern, dass kein Kompromiss gefunden worden sei, wie die Nidwaldner Regierungsrätin Michele Blöchliger sagt: Wir hatten gestern einen Dialog mit Bundesrat Berset.
+
+40
+00:03:53,113 --> 00:03:58,562
+In diesem Austausch sind wir zum Schluss gelangt, dass wir nun aus staatspolitischen Gründen diesen Weg wählen.
+
+41
+00:03:59,203 --> 00:04:05,072
+Ich glaube, rechtlich gibt es wirklich zwei Interpretationen, das haben wir gestern auch ausführlich diskutiert.
+
+42
+00:04:05,713 --> 00:04:10,073
+Epidemiologisch sind wir klar der Meinung, dass wir die bessere Lösung haben.
+
+43
+00:04:10,714 --> 00:04:12,801
+Aber letztlich wollen wir eine Lösung finden.
+
+44
+00:04:15,342 --> 00:04:17,853
+Ob Boutique, Warenhaus oder Pop-up-Store.
+
+45
+00:04:18,494 --> 00:04:24,372
+Am Montag ist der sechswöchige Shutdown zu Ende und es können auch wieder Kleider gekauft und verkauft werden.
+
+46
+00:04:25,013 --> 00:04:35,190
+Für den Textilverband Schweiz ist es höchste Zeit, denn auf der Ware, die man bereits Wochen vor dem Shutdown eingekauft hatte, blieb man wegen der geschlossenen Läden grösstenteils sitzen.
+
+47
+00:04:35,832 --> 00:04:40,171
+Und das brachte selbst an sich stabile und wirtschaftlich gesunde Modeunternehmen ins Wanken.
+
+48
+00:04:44,274 --> 00:04:50,963
+Letzte Vorbereitungen im Manor Luzern heute, vor der Wiedereröffnung am Montag. Kein Kleidungsstück soll im Lager bleiben.
+
+49
+00:04:51,604 --> 00:04:56,141
+Alles wird angepriesen, die Winter- und die Frühlingskollektion nebeneinander.
+
+50
+00:04:56,299 --> 00:05:07,291
+Die Umsatzeinbussen könne man zwar nicht gleich kompensieren, aber man versuche hier im Kaufhaus zumindest ab Montag, mit grossen Rabatten wieder Geld in die Kasse zu bringen.
+
+51
+00:05:07,932 --> 00:05:13,311
+Wir wollen mit 70 % und weiteren Aktionen dem Kunden die Möglichkeit geben, vom Sale zu profitieren.
+
+52
+00:05:13,953 --> 00:05:17,341
+In der zweiten Woche wird dann der Frühling stärker sein.
+
+53
+00:05:17,983 --> 00:05:22,033
+Im Anschluss wird natürlich der Grill aufgebaut, Ostern steht vor der Tür.
+
+54
+00:05:22,675 --> 00:05:24,360
+Also wir freuen uns auf die neuen Aktivitäten.
+
+55
+00:05:25,002 --> 00:05:27,016
+Aber jetzt ist ganz klar der Fokus auf Sale.
+
+56
+00:05:27,657 --> 00:05:32,352
+Hier wird bereits die Frühlingskollektion ausgestellt, im Modehaus Ziel in Appenzell.
+
+57
+00:05:32,993 --> 00:05:37,262
+Auch hier kann man die Öffnung kaum erwarten, die frische Ware will verkauft werden.
+
+58
+00:05:37,902 --> 00:05:43,151
+Der Warenwert im Kleidergschäft sei mit 50 % hoch, der Einkauf vier bis sechs Monate im Voraus.
+
+59
+00:05:43,791 --> 00:05:57,922
+Demenentsprechend fehlen den Unternehmern seit dem letzten Shutdown bereits liquide Mittel: Gemäss unserer Umfrage haben rund 65 % unserer Mitglieder zwischen 10 und 35 % Umsatzanteile im letzten Jahr verloren.
+
+60
+00:05:58,562 --> 00:06:03,481
+Auch dieses Jahr sieht es nicht besser aus.
+
+61
+00:06:04,122 --> 00:06:08,931
+Die Zahl von Onlinekäufen hat zugenommen, darunter haben die stationären Läden gelitten.
+
+62
+00:06:09,573 --> 00:06:11,632
+Es könne gar zur Marktbereinigung kommen.
+
+63
+00:06:12,273 --> 00:06:18,299
+Kleinere Unternehmen waren auch gezwungen, ihre Online-Aktivitäten neu zu denken.
+
+64
+00:06:18,942 --> 00:06:24,780
+Sie machen Online-Beratungen, sie machen Modeschauen online, sie stellen Kollektionen online vor.
+
+65
+00:06:25,422 --> 00:06:31,185
+Diese Dienstleistungen werden beibehalten werden.
+
+66
+00:06:31,823 --> 00:06:34,100
+Die Lager sind voll, alles soll raus.
+
+67
+00:06:34,742 --> 00:06:45,056
+Bei den grossen Modeketten mithilfe der Prozentschilder, bei Kleineren wird die Wintermode 20/21 zurückgestellt und ins nächste Jahr integriert.
+
+68
+00:06:47,723 --> 00:06:58,731
+Die Aussage von alt Bundesrat Moritz Leuenberger in der "NZZ am Sonntag", die Schweiz habe bei Geiselnahmen wohl Lösegelder bezahlt, könnte Konsequenzen haben.
+
+69
+00:06:59,372 --> 00:07:04,411
+Die Bundesanwaltschaft erwäge eine Untersuchung wegen Amtsgeheimnisverletzung, berichten Tamedia-Redaktionen.
+
+70
+00:07:05,052 --> 00:07:09,510
+Im Moment sei ein Gesuch beim Bundesrat hängig, eine derartige Untersuchung zu starten.
+
+71
+00:07:11,442 --> 00:07:16,291
+In der Bundesverwaltung nimmt der Anteil von Frauen in Spitzenpositionen zu.
+
+72
+00:07:16,932 --> 00:07:25,011
+Insofern war die Wahl von Christine Schraner Burgener zur Chefin des Staatssekretariats für Migration, die gestern bekannt wurde, die Fortsetzung eines Trends.
+
+73
+00:07:25,652 --> 00:07:28,825
+Inzwischen sind fast alle Staatssekretariate in Frauenhand.
+
+74
+00:07:29,461 --> 00:07:31,620
+Dasselbe gilt für viele wichtige Bundesämter.
+
+75
+00:07:32,262 --> 00:07:36,920
+Und doch hat der Bund seine Zielvorgaben in Sachen Frauen in Kaderfunktionen noch nicht erreicht.
+
+76
+00:07:41,112 --> 00:07:43,935
+Sie ist das neuste Beispiel: Christine Schraner Burgener.
+
+77
+00:07:44,571 --> 00:07:51,360
+Im Departement von Justizministerin Karin Keller-Sutter wird die aktuelle UNO-Sondergesandte für Burma bald eine Hauptrolle spielen.
+
+78
+00:07:52,002 --> 00:07:57,400
+In den letzten Monaten wurden aus vielen Schlüsselpositionen in der Bundesverwaltung Chefinnenposten.
+
+79
+00:07:58,041 --> 00:08:02,980
+Sabine D'Amelio-Favez leitet seit Anfang Monat die Eidgenössische Finanzverwaltung.
+
+80
+00:08:03,621 --> 00:08:08,185
+Livia Leu führt als Staatssekretärin im Aussendepartement seit Herbst das Europa-Dossier.
+
+81
+00:08:08,826 --> 00:08:15,320
+Anne Levy leitet seit Kurzem das Bundesamt für Gesundheit und Kathrin Schneeberger das Bundesamt für Umwelt.
+
+82
+00:08:15,962 --> 00:08:23,585
+Dass Bundesrätin Keller-Sutter die Spitze des Bundesamts für Justiz mit einem Mann besetzte, brachte sie gestern etwas in Erklärungsnot.
+
+83
+00:08:24,221 --> 00:08:30,600
+Die meisten Chefs in ihrem Departement seien schon Frauen: Michael Schöll ist der letzte Mann.
+
+84
+00:08:31,241 --> 00:08:35,700
+Ja, wir werden uns gut um ihn kümmern.
+
+85
+00:08:36,179 --> 00:08:41,712
+Dass der Frauenanteil in Bundes-berner Spitzenpostionen wächst, ist kein Zufall.
+
+86
+00:08:42,352 --> 00:08:49,419
+Es ist die Folge einer klaren Strategie, einer Strategie des Bundesrats, der auch entsprechende Vorgaben in diesem Bereich erlassen hat.
+
+87
+00:08:50,061 --> 00:08:54,499
+Und es ist auch eine Entwicklung, die sich ganz klar in unseren Zahlen widerspiegelt.
+
+88
+00:08:55,140 --> 00:08:57,419
+Einerseits generell über die gesamte Bundesverwaltung.
+
+89
+00:08:58,061 --> 00:09:04,790
+Aber auch in den Kaderlohnklassen sehen wir ganz klar, dass sich die Vertretung der Frauen kontinuierlich erhöht hat.
+
+90
+00:09:05,431 --> 00:09:10,951
+Ein Blick auf die Zahlen von 2020 zeigt allerdings: Die Vorgaben des Bundesrats sind noch nicht erreicht.
+
+91
+00:09:11,592 --> 00:09:15,198
+Im unteren Kader sind es 34,2 % statt 36-43 %.
+
+92
+00:09:15,841 --> 00:09:22,272
+Im oberen Kader 23 % statt dem Sollwert von 27-32 %.
+
+93
+00:09:22,914 --> 00:09:34,329
+Damit diese Vorgaben bis 2023 erreicht werden, muss jede Frau, die heute in der Bundesverwaltung ist, durch eine Frau ersetzt werden und jeder dritte Mann durch eine Frau.
+
+94
+00:09:34,971 --> 00:09:37,921
+Also es ist eine rechte Arbeit, die vor uns liegt.
+
+95
+00:09:38,562 --> 00:09:42,712
+Neue Zahlen zum Frauenanteil veröffentlicht der Bund in einer Woche.
+
+96
+00:09:44,621 --> 00:09:49,589
+Eine aktuelle Meldung erreicht uns im Fall des ermordeten Journalisten Jamal Khashoggi.
+
+97
+00:09:50,231 --> 00:09:55,202
+Gemäss einem US-Geheimdienstreport hat der saudische Kronprinz dessen Ermordung genehmigt.
+
+98
+00:09:55,844 --> 00:10:00,931
+Damit bezichtigt die USA jetzt doch noch offiziell das saudische Königshaus des Mordes.
+
+99
+00:10:01,011 --> 00:10:10,600
+Khashoggi war am 2. Oktober 2018 im saudischen Konsulat in Istanbul von einem Spezialkommando aus Riad getötet worden.
+
+100
+00:10:12,601 --> 00:10:18,740
+Erstmals - zumindest wurde es erstmals bekannt - hat der neue US-Präsident Joe Biden einen Militäreinsatz befohlen.
+
+101
+00:10:19,381 --> 00:10:21,908
+Er liess einen Luftangriff ausführen, und zwar in Syrien.
+
+102
+00:10:22,540 --> 00:10:26,019
+In der Region von Abu Kamal an der syrisch-irakischen Grenze.
+
+103
+00:10:28,161 --> 00:10:30,706
+Hier schlugen die amerikanischen Geschosse ein.
+
+104
+00:10:31,341 --> 00:10:34,869
+Ärzte und Behördenvertreter vor Ort berichten von mind. 17 Toten.
+
+105
+00:10:35,511 --> 00:10:43,409
+Ziel waren laut US-Angaben pro-iranische Rebellen, hier Archivbilder der Kämpfer.
+
+106
+00:10:45,421 --> 00:10:49,070
+Ich bin sehr stolz auf die Männer und Frauen in unseren Streitkräften.
+
+107
+00:10:49,712 --> 00:10:57,435
+Sie haben sehr professionell gearbeitet, und wir sind dankbar für das, was sie geleistet haben.
+
+108
+00:10:58,072 --> 00:11:04,249
+Der russische Aussenminister Sergei Lawrow kritisierte heute den Luftangriff.
+
+109
+00:11:04,890 --> 00:11:09,523
+Wir haben in letzter Zeit widersprüchliche Informationen gehört.
+
+110
+00:11:10,159 --> 00:11:15,638
+Deshalb fragen wir die Amerikaner, ob sie gerade beschliessen, Syrien nicht mehr zu verlassen.
+
+111
+00:11:16,280 --> 00:11:20,719
+Auch wenn das bedeutet, dass das Land dadurch zerstört wird.
+
+112
+00:11:21,621 --> 00:11:33,058
+Laut dem amerikanischen Verteidigungsministerium ist der Luftangriff eine Vergeltungsaktion für diesen Raketenangriff der Milizen vor zehn Tagen in Erbil im Irak.
+
+113
+00:11:32,419 --> 00:11:38,468
+In Erbil kommentiert SRF-Nahostkorrespondent Pascal Weber den amerikanischen Luftangriff.
+
+114
+00:11:39,110 --> 00:11:43,314
+Biden wollte dem Nahen Osten in seiner Aussenpolitik weniger Gewicht einräumen.
+
+115
+00:11:43,952 --> 00:11:48,648
+Dass er nun trotzdem ausgerechnet hier seinen ersten Militärschlag befohlen hat, zeigt, wie illusorisch das ist.
+
+116
+00:11:49,289 --> 00:11:59,028
+Der Konflikt zwischen dem Iran und den USA, der sich heiss hauptsächlich im Irak, aber auch in Syrien abspielt, wird auch die Präsidentschaft Biden bestimmen, so wie sie seine Vorgänger bestimmt hat.
+
+117
+00:12:00,680 --> 00:12:07,178
+Schottland liebäugelt damit, sich von Grossbritannien loszulösen, seit dem Brexit erst recht.
+
+118
+00:12:07,819 --> 00:12:11,808
+Denn der Rückhalt in der Bevölkerung für einen solchen Schritt ist enorm gestiegen.
+
+119
+00:12:12,450 --> 00:12:16,138
+Doch diese Unabhängigkeitsträume könnten nun infrage gestellt werden.
+
+120
+00:12:16,779 --> 00:12:25,684
+Denn Regierungschefin Nicola Sturgeon, die von vielen Schottinnen und Schotten regelrecht als Heldin gefeiert wird, kämpft mit Vorwürfen, die sie zum Rücktritt zwingen könnten.
+
+121
+00:12:26,319 --> 00:12:30,011
+Das hätte weitreichende Folgen - für Schottland und das Vereinigte Königreich.
+
+122
+00:12:33,419 --> 00:12:38,398
+Henriette Engbersen: Nicola Sturgeon - von einigen als neue Königin Schottlands tituliert.
+
+123
+00:12:39,039 --> 00:12:44,678
+Mit ihr kann die Schottische Nationalpartei bei den Wahlen im Mai die absolute Mehrheit erreichen.
+
+124
+00:12:45,318 --> 00:12:50,248
+Und mit ihr könnte das Referendum für Schottlands Unabhängigkeit gewonnen werden.
+
+125
+00:12:50,890 --> 00:12:53,440
+Doch ausgerechnet jetzt tauchen dunkle Wolken auf.
+
+126
+00:12:54,082 --> 00:12:57,643
+Ihr Rücktritt droht, denn die Vorwürfe gegen sie sind heftig.
+
+127
+00:12:58,280 --> 00:13:07,128
+Eine Kultur des Versteckens und Verheimlichens hat stattgefunden, und das alles hat Nicola Sturgeon zu verantworten.
+
+128
+00:13:07,769 --> 00:13:10,268
+Der eigentliche Widersacher: Alex Salmond.
+
+129
+00:13:10,909 --> 00:13:13,108
+Er war einst ihr wichtigster Weggefährte.
+
+130
+00:13:13,750 --> 00:13:16,239
+Er wirft Sturgeon ein Komplott gegen ihn vor.
+
+131
+00:13:16,881 --> 00:13:21,909
+Denn Salmond wurden sexuelle Übergriffe vorgeworfen, von denen er aber freigesprochen wurde.
+
+132
+00:13:22,549 --> 00:13:31,508
+Heute vor dem Untersuchungsausschuss sagte er, sie wollte ihn loswerden: Die letzten zweieinhalb Jahre waren ein Albtraum.
+
+133
+00:13:32,149 --> 00:13:34,817
+Nicht die Gerichte haben versagt, sondern die Führung.
+
+134
+00:13:35,457 --> 00:13:39,876
+Nicht Schottland hat versagt, sondern die Führung hat versagt.
+
+135
+00:13:40,519 --> 00:13:45,118
+Nicola Sturgeon bestreitet die Vorwürfe.
+
+136
+00:13:45,759 --> 00:13:51,628
+Salmond glaubt wohl, dass wir alle Teil einer grossen Verschwörungstheorie gegen ihn sind.
+
+137
+00:13:52,269 --> 00:13:56,005
+Also ich, die Staatsorgane die Partei, Beamte, die Polizei.
+
+138
+00:13:56,640 --> 00:14:03,869
+Dies zu glauben, scheint einfacher für ihn, als zu akzeptieren, dass sein Verhalten das Problem ist.
+
+139
+00:14:04,509 --> 00:14:10,667
+Der Streit zwischen den beiden hat mittlerweile das Potenzial, die Zukunft des Vereinigten Königreichs zu bestimmen.
+
+140
+00:14:11,309 --> 00:14:16,928
+Sollte Nicola Sturgeon frappante Fehler begangen haben, müsste sie zurücktreten.
+
+141
+00:14:17,568 --> 00:14:19,837
+Der Imageschaden für sie und ihre Partei wäre enorm.
+
+142
+00:14:20,479 --> 00:14:26,024
+Und deshalb könnte auch das Unabhängigkeitsreferendum den nötigen Rückhalt in der Bevölkerung verlieren.
+
+143
+00:14:26,664 --> 00:14:29,374
+Nächste Woche steht sie vor dem Untersuchungsausschuss.
+
+144
+00:14:30,008 --> 00:14:35,370
+Fast wie eine Königin könnte sie alles verlieren, wofür sie gekämpft hat: ihr künftiges Reich.
+
+145
+00:14:38,068 --> 00:14:46,487
+Und nun in den Osten Afrikas, nach Tansania, einem Land, das erst seit letzter Woche die Corona-Pandemie offiziell anerkannt hat.
+
+146
+00:14:47,128 --> 00:14:52,168
+Davor war der Präsident überzeugt gewesen, dass dem Virus mit Gebeten beizukommen ist.
+
+147
+00:14:52,809 --> 00:15:01,651
+Tansania, insbesondere die Insel Sansibar, erweist sich seit Monaten als Magnet für Reisefreudige - auch Schweizer Herkunft.
+
+148
+00:15:01,683 --> 00:15:04,107
+Die Reportage unserer Kolleginnen und Kollegen von RTS.
+
+149
+00:15:12,019 --> 00:15:13,607
+No, I'm sorry, we're fully booked at the moment.
+
+150
+00:15:14,249 --> 00:15:16,125
+Voll ausgebucht - wie praktisch ganz Sansibar.
+
+151
+00:15:16,758 --> 00:15:21,243
+Täglich muss die Bernerin mit einem Dutzend Zimmer Interessierte vertrösten.
+
+152
+00:15:21,884 --> 00:15:21,931
+I'm really sorry.
+
+153
+00:15:23,299 --> 00:15:24,193
+- It's alright.
+
+154
+00:15:24,834 --> 00:15:28,567
+Seit Oktober werden wir überlaufen wie noch nie in den drei Jahren.
+
+155
+00:15:29,207 --> 00:15:40,715
+Unter den Gästen sind auch viele aus der Schweiz: Wir sind hier, um Ferien zu machen, durchzuatmen, um frei zu sein.
+
+156
+00:15:41,357 --> 00:15:54,797
+Auch wenn einzelne Hotels zu Vorsicht mahnen, die Spitäler ausgelastet sind und die Todeszahlen steigen, bleibt COVID-19 ein Tabu: Seit April führt die Regierung keine Statistik mehr und hält nichts von Massnahmen.
+
+157
+00:15:55,439 --> 00:16:00,283
+Kein Abstandhalten, keine Tests bei der Einreise, keine Quarantäneregeln.
+
+158
+00:16:00,920 --> 00:16:08,159
+Der Flughafen auf Sansibar leert sich nie angesichts zusätzlich acht neuer Fluggesellschaften allein in den letzten Monaten.
+
+159
+00:16:08,801 --> 00:16:27,506
+Der Walliser Hotelier glaubt es immer noch kaum: Wir rechneten mit einem Rückschlag für diese Saison, aber da alle dem Alltag entfliehen wollen und Ferien brauchen und Sansibar offen ist, verzeichnen wir eine ausgezeichnete Wintersaison.
+
+160
+00:16:28,568 --> 00:16:40,893
+Für die Touristen ist Sansibar eine Reise raus aus der Pandemie: In diesem Land lebt man normal und reist gefühlt zurück in eine Zeit, die ja gar nicht lang her ist.
+
+161
+00:16:41,530 --> 00:16:43,878
+Man kann in die Bars gehen, mit Leuten reden.
+
+162
+00:16:44,519 --> 00:16:50,486
+Wir sassen zu sechst beim Mittagessen und sagten uns: "Unglaublich, in der Schweiz wäre das nicht möglich."
+
+163
+00:16:50,619 --> 00:17:00,657
+Nun aber, nach dem kürzlichen COVID-Tod von Sansibars Vizepräsidenten, existiert die Pandemie auch offiziell, inklusiv Maskenempfehlung.
+
+164
+00:17:01,298 --> 00:17:04,253
+Noch sind in der Parallelwelt auch Musikfestivals möglich.
+
+165
+00:17:04,887 --> 00:17:06,726
+Unklar ist, wie lange noch.
+
+166
+00:17:07,367 --> 00:17:09,838
+Auch nach acht Monaten ist hier die Party noch nicht zu Ende.
+
+167
+00:17:13,659 --> 00:17:16,066
+Die Corona-Krise ist auch eine Wirtschaftskrise.
+
+168
+00:17:16,708 --> 00:17:20,655
+Allerdings ist Krise nicht gleich Krise - es gibt international grosse Unterschiede.
+
+169
+00:17:21,297 --> 00:17:23,565
+Das zeigt der Blick auf das Bruttoinlandprodukt BIP.
+
+170
+00:17:24,207 --> 00:17:27,931
+Gemessen daran hat die Schweiz das vergangene Corona-Jahr sogar ausserordentlich gut gemeistert.
+
+171
+00:17:30,878 --> 00:17:41,536
+Nachdem die Schweizer Wirtschaft im letzten Frühling hartes Brot zu beissen hatte, erlebten gerade Branchen wie das Gastgewerbe im dritten Quartal eine starke Erholung - wenn auch nur für eine kurze Zeit.
+
+172
+00:17:42,176 --> 00:17:44,066
+Dem Bruttoinlandprodukt genügte das.
+
+173
+00:17:44,707 --> 00:17:52,623
+Denn wirtschaftlich gesehen ist europaweit kaum ein Land so gut durch die Krise gekommen wie die Schweiz, sagt die Ökonomin Franziska Fischer.
+
+174
+00:17:53,258 --> 00:18:02,989
+Im Grossen und Ganzen gibt es dafür drei Gründe: Der erste ist, dass die wirtschaftlichen Einschränkungen weniger strikt waren als in den Nachbarländern - sowohl in der ersten als auch in der zweiten Welle.
+
+175
+00:18:03,630 --> 00:18:08,113
+Der zweite Grund ist, dass die Schweiz eine für diese Krise vorteilhafte Wirtschaftsstruktur hat.
+
+176
+00:18:08,747 --> 00:18:13,714
+Der Tourismus z.B., der ja stark getroffen war, trägt in der Schweiz weniger zum BIP bei als in Südeuropa.
+
+177
+00:18:14,357 --> 00:18:17,375
+Und drittens gab's in der Schweiz sehr effiziente Fiskalmassnahmen.
+
+178
+00:18:18,017 --> 00:18:20,236
+Die Kredite kamen extrem schnell.
+
+179
+00:18:20,877 --> 00:18:24,325
+Auch auf die Kurzarbeit konnte sehr schnell zurückgegriffen werden.
+
+180
+00:18:24,967 --> 00:18:31,472
+Dank dieser drei Gründe resultierte über das gesamte Corona-Jahr 2020 somit nur ein Minus von 2,9 %.
+
+181
+00:18:32,106 --> 00:18:38,075
+Gerade die tourismusabhängigen Länder im Süden weisen ein deutliches schlechteres BIP aus als die Schweiz.
+
+182
+00:18:38,717 --> 00:18:48,965
+Dennoch konnte die starke Erholung vom Sommer im vierten Quartal auch in der Schweiz nicht fortgesetzt werden, sagt Eric Scheidegger vom Bundesamt für Wirtschaft.
+
+183
+00:18:49,606 --> 00:18:56,275
+Nach dem sehr starken dritten Quartal musste erwartet werden, dass sich die Erholung nicht so stark fortsetzen wird.
+
+184
+00:18:56,917 --> 00:18:59,655
+Immerhin war das vierte Quartal noch leicht positiv.
+
+185
+00:19:00,139 --> 00:19:08,065
+Im Ausland z.B., in Frankreich oder Italien, gab es im vierten Quartal noch einen starken Einbruch des Wirtschaftswachstums.
+
+186
+00:19:08,705 --> 00:19:13,195
+Bei den Prognosen für das laufende Jahr gehen die Meinungen noch auseinander.
+
+187
+00:19:13,836 --> 00:19:15,715
+Sie liegen aber allesamt im Plus.
+
+188
+00:19:17,877 --> 00:19:21,288
+Corona-bedingt ist der Klimawandel aus den Schlagzeilen geraten.
+
+189
+00:19:21,929 --> 00:19:25,182
+Das UNO-Klimasekretariat ruft das Thema nun wieder in Erinnerung.
+
+190
+00:19:25,816 --> 00:19:30,352
+Es brauche grössere Anstrengungen, um die Ziele des Pariser Klimaabkommens zu erreichen.
+
+191
+00:19:31,219 --> 00:19:42,481
+Insbesondere der schädliche CO2-Ausstoss müsse deutlich stärker als bisher geplant reduziert werden, um die globale Erderwärmung auf die angepeilten 1,5 °C begrenzen zu können.
+
+192
+00:19:43,116 --> 00:19:48,944
+Eine Region, die den Klimawandel deutlich zu spüren bekommt, ist die Region Spitzbergen.
+
+193
+00:19:49,586 --> 00:19:55,853
+Im Buch "Meine Welt schmilzt" zeigt Line Nagell Ylvisaker auf, was das für Mensch und Natur bedeutet.
+
+194
+00:19:58,567 --> 00:20:00,891
+Es war der 19. Dezember 2015.
+
+195
+00:20:02,405 --> 00:20:09,266
+Eine Lawine zerstört zwei Häuserzeilen in Longyearbyen, dem grössten Ort auf der arktischen Insel Spitzbergen.
+
+196
+00:20:09,907 --> 00:20:12,474
+Zwei Menschen ersticken im Schnee.
+
+197
+00:20:13,117 --> 00:20:25,854
+Eindrücklich schildert die Autorin Line Nagell Ylvisaker diese Katastrophe, ihre Konsequenzen, die Ursachen in ihrem Buch "Meine Welt schmilzt".
+
+198
+00:20:26,496 --> 00:20:29,411
+Ich bekam Angst.
+
+199
+00:20:30,099 --> 00:20:37,394
+Es geschahen so viele Dinge auf einmal, und ich musste meine Gefühle irgendwie in den Griff bekommen, um zu verstehen, was wirklich geschieht.
+
+200
+00:20:38,036 --> 00:20:39,371
+Denn es blieb nicht bei der einen Lawine.
+
+201
+00:20:40,059 --> 00:20:41,632
+Weitere folgten.
+
+202
+00:20:42,266 --> 00:20:44,943
+Sichere Wohngebiete wurden zur Gefahrenzone.
+
+203
+00:20:45,584 --> 00:20:47,737
+Häuser mussten abgerissen werden.
+
+204
+00:20:48,378 --> 00:20:52,621
+Und an vermeintlich sicheren Orten wurden neue gebaut.
+
+205
+00:20:54,486 --> 00:21:03,754
+Nach den viel zu milden Wintern folgte der grosse Regen, obwohl Spitzbergen im Sommer normalerweise fast so trocken ist wie eine Wüste.
+
+206
+00:21:04,388 --> 00:21:09,235
+Erdrutsche waren die Folge, sie bedrohten sogar den örtlichen Friedhof.
+
+207
+00:21:09,877 --> 00:21:16,096
+Hier auf Spitzbergen sind die Folgen der Klimakatastrophe spürbarer als in anderen Teilen der Welt.
+
+208
+00:21:16,737 --> 00:21:22,344
+Spitzbergen ist eines der Gebiete, die am meisten unter der Klimaveränderung leiden.
+
+209
+00:21:22,986 --> 00:21:29,434
+Seit 1961 ist der Temperaturanstieg hier sechsmal höher als im Rest der Welt.
+
+210
+00:21:32,887 --> 00:21:47,314
+In ihrem Buch erforscht Line Nagell Ylvisaker am Beispiel von Spitzbergen die komplexen Zusammenhänge des Klimawandels und lässt uns erleben, was es bedeutet, wenn die Welt langsam schmilzt.
+
+211
+00:21:47,955 --> 00:21:52,983
+Man muss es erleben, um wirklich zu verstehen, was da geschieht.
+
+212
+00:21:53,625 --> 00:21:55,523
+Das will ich mit diesem Buch erreichen.
+
+213
+00:21:56,166 --> 00:22:03,544
+Ich will versuchen, die Gefühle der Menschen anzusprechen, um die Folgen der globalen Erwärmung wirklich zu verstehen.
+
+214
+00:22:09,666 --> 00:22:17,893
+Eine Meldung vom Fussball: Nach dem Exploit von YB in der Europa League steht nun fest, auf wen die Berner im Achtelfinal treffen.
+
+215
+00:22:18,535 --> 00:22:21,164
+Es ist der niederländische Traditionsverein Ajax Amsterdam.
+
+216
+00:22:21,805 --> 00:22:23,720
+YB spielt am 11. März zuerst auswärts.
+
+217
+00:22:24,362 --> 00:22:27,081
+Eine Woche später folgt dann das Rückspiel in Bern.
+
+218
+00:22:28,816 --> 00:22:38,233
+Ski alpin: So schnell wie sie ist Moment keine andere Fahrerin unterwegs - Lara Gut-Behrami hat heute nahtlos an ihre Goldfahrten bei der WM angeknüpft.
+
+219
+00:22:38,875 --> 00:22:43,624
+Auch Corinne Suter bestätigte ihre exzellente Form mit einem dritten Platz.
+
+220
+00:22:44,816 --> 00:22:54,791
+Die Schweizer Speedfrauen zeigen ihre Klasse auch in der Fortsetzung des Weltcups - im ersten Rennen nach den Weltmeisterschaften, der Abfahrt im italienischen Val di Fassa.
+
+221
+00:22:55,424 --> 00:23:04,178
+Abfahrtsweltmeisterin Corinne Suter fährt mit der Startnummer 5 die zu dem Zeitpunkt zweitbeste Zeit hinter der Österreicherin Ramona Siebenhofer.
+
+222
+00:23:05,379 --> 00:23:14,024
+Lara Gut-Behrami, die WM-Bronzemedaillengewinnerin, liefert sich ein hochstehendes, enges Duell mit der führenden Österreicherin.
+
+223
+00:23:14,664 --> 00:23:25,343
+Gut-Behrami gewinnt am Ende nicht nur diesen Zweikampf um den Sieg, sondern sie gewinnt auch 71 Punkte mehr als ihre Konkurrentin um den Gesamtweltcup, die Slowakin Petra Vlhova.
+
+224
+00:23:27,785 --> 00:23:30,421
+Petra ist heute unglaublich gut gefahren.
+
+225
+00:23:31,055 --> 00:23:34,911
+Wenn wir beide so Ski fahren, wird es wohl sehr eng werden.
+
+226
+00:23:35,544 --> 00:23:38,055
+Ich nehme immer ein Rennen nach dem anderen.
+
+227
+00:23:38,697 --> 00:23:42,151
+Abgerechnet wird erst am Sonntag in Lenzerheide.
+
+228
+00:23:42,785 --> 00:23:53,492
+Michelle Gisin wird Neunte, komplettiert das starke Teamergebnis mit sieben Athletinnen in den Punkten, mit drei in den Top 10, das Ganze angeführt von den beiden auf dem Podest.
+
+229
+00:23:54,135 --> 00:24:02,383
+Corinne Suter auf Rang 3 und Lara Gut-Behrami, die dank ihres 31. Weltcupsieges die Führung im Gesamtweltcup übernimmt.
+
+230
+00:24:05,165 --> 00:24:13,251
+Und bei uns nun zu Arthur Honegger und den Themen von "10 vor 10": Gut, dieser Streit um Skiterrassen scheint beigelegt.
+
+231
+00:24:12,185 --> 00:24:21,552
+Aber das grundsätzliche politische Problem in der Pandemie bleibt: Was kann der Bund vorschreiben, was können die Kantone in Eigenregie beschliessen?
+
+232
+00:24:22,194 --> 00:24:24,553
+Corona ist ein Härtetest für den Föderalismus.
+
+233
+00:24:27,558 --> 00:24:35,233
+Und wir zeigen auch, wo sich der nächste Knatsch zwischen Bund und Kantonen anbahnt: Wer darf eigentlich welche Tests bewilligen?
+
+234
+00:24:37,139 --> 00:24:38,022
+- Danke, Arthur.
+
+235
+00:24:38,459 --> 00:24:42,363
+Das war's von uns für Sie.
+
+236
+00:24:43,004 --> 00:24:45,663
+Weiter geht's auf SRF 1 mit "Meteo" und "SRF bi de Lüt".
+
+237
+00:24:46,304 --> 00:24:48,113
+Einen unterhaltsamen Abend und bis bald.
+
+238
+00:31:04,411 --> 00:31:06,650
+Ich wünsche Ihn ein schönes Wochenende.
+

@@ -1,0 +1,309 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Segment, Embed, and Align: A Universal Recipe for Aligning Subtitles to Signing</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+        <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+        <link rel="stylesheet" href="assets/css/main.css" />
+        <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="assets/js/util.js"></script>
+
+        <style type="text/css">
+          a { border-bottom: none; }
+          table.center { margin-left:auto; margin-right:auto; }
+          .resp-iframe {
+            position: absolute;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            border: 0;
+          }
+
+
+
+          /* --- Datasets Section --- */
+          .samples-nav {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+          }
+        body {
+            -webkit-user-select: text;
+            -moz-user-select: text;
+            -ms-user-select: text;
+            user-select: text;
+        }
+
+        </style>
+    </head>
+
+    <body class="is-preload">
+
+        <div id="wrapper">
+
+            <header id="header" class="alt" style="padding-top: 40px;padding-bottom: 20px">
+                <div class="row">
+                    <div class="col-xs-12 " style="padding:auto;margin:auto">
+                        <h1><b>Segment, Embed, and Align: A Universal Recipe for Aligning Subtitles to Signing</b></h1>
+                    </div>
+                </div>
+                <div class="container" style="align-content: center; width:80%; margin:auto" >
+                    <div>
+                        <div class="row">
+                            <div class="col-xs-12 col-md-1 col-md-offset-3" style="padding:auto;margin:auto;border: none;color: #ffffff">
+                                <span style="font-size:24px"><a href="https://www.cl.uzh.ch/en/research-groups/accessibility/team/current-members/jiang.html" style="text-decoration:underline">Zifan Jiang</a><sup>1,2*</sup></span>
+                            </div>
+                            <div class="col-xs-12 col-md-1 col-md-offset-3" style="padding:auto;margin:auto;border: none;color: #ffffff">
+                                <span style="font-size:24px"><a href="http://art-jang.github.io/" style="text-decoration:underline">Youngjoon Jang</a><sup>1,3</sup></span>
+                            </div>
+                            <div class="col-xs-12 col-md-1 col-md-offset-3" style="padding:auto;margin:auto;border: none;color: #ffffff">
+                                <span style="font-size:24px"><a href="http://www.robots.ox.ac.uk/~liliane/" style="text-decoration:underline">Liliane Momeni</a><sup>1</sup></span>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12 col-md-1 col-md-offset-3" style="padding:auto;margin:auto;border: none;color: #ffffff">
+                                <span style="font-size:24px"><a href="https://www.robots.ox.ac.uk/~gul/" style="text-decoration:underline">Gül Varol</a><sup>1,4</sup></span>
+                            </div>
+                            <div class="col-xs-12 col-md-1 col-md-offset-3" style="padding:auto;margin:auto;border: none;color: #ffffff">
+                                <span style="font-size:24px"><a href="https://www.cl.uzh.ch/de/about-us/people/team/accessibility/ebling.html" style="text-decoration:underline">Sarah Ebling</a><sup>2</sup></span>
+                            </div>
+                            <div class="col-xs-12 col-md-1 col-md-offset-3" style="padding:auto;margin:auto;border: none;color: #ffffff">
+                                <span style="font-size:24px"><a href="https://www.robots.ox.ac.uk/~az/" style="text-decoration:underline">Andrew Zisserman</a><sup>1</sup></span>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12" style="padding:auto;margin:auto">
+                                <span style="font-size:25px"><sup>1</sup>Visual Geometry Group (VGG), University of Oxford, UK</span><br>
+                                <span style="font-size:25px"><sup>2</sup>University of Zurich, Switzerland</span><br>
+                                <span style="font-size:25px"><sup>3</sup>Korea Advanced Institute of Science and Technology (KAIST), South Korea</span><br>
+                                <span style="font-size:25px"><sup>4</sup>LIGM, École des Ponts, Univ Gustave Eiffel, CNRS, France</span>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12" style="padding:auto;margin:auto">
+                                <span style="font-size:25px">ACL 2026, San Diego, CA, USA</span><br>
+                                <span style="font-size:25px"><a href="https://arxiv.org/abs/2512.08094" style="text-decoration:underline">Arxiv preprint</a></span><br>
+                                <span style="font-size:20px">*Work done during a research visit to VGG, Oxford.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <nav id="nav">
+                <ul>
+                    <li><a href="#overview" class="active">Overview</a></li>
+                    <li><a href="#video">Talk at BMVA</a></li>
+                    <li><a href="#datasets">Datasets</a></li>
+                    <li><a href="#qualitative">Qualitative Results</a></li>
+                </ul>
+            </nav>
+
+            <div id="main">
+
+                <section id="overview" class="main special">
+                    <div class="major">
+                        <header class="major">
+                            <div class="spotlight">
+                                <ul class="statistics">
+                                    <li class="style1"><a href="https://arxiv.org/abs/2512.08094"><strong>Paper</strong></a></li>
+                                    <li class="style2"><a href="https://github.com/J22Melody/SEA"><strong>Code</strong></a></li>
+                                    <li class="style3"><a href="https://github.com/J22Melody/SEA?tab=readme-ov-file#citation"><strong>Bibtex</strong></a></li>
+                                </ul>
+                            </div>
+                            <h2>Overview</h2>
+                            <br>
+                            <img src="images/method.png" width="100%">
+                            <div class="content align-left" style="justify-content: left;">
+                                <br>
+                                The goal of this work is to develop a universal approach for aligning subtitles (i.e., spoken language text with corresponding timestamps) to continuous sign language videos. Prior approaches typically rely on end-to-end training tied to a specific language or dataset, which limits their generality. In contrast, our method Segment, Embed, and Align (SEA) provides a single framework that works across multiple languages and domains. SEA leverages two pretrained models: the first to segment a video frame sequence into individual signs and the second to embed the video clip of each sign into a shared latent space with text. Alignment is subsequently performed with a lightweight dynamic programming procedure that runs efficiently on CPUs within a minute, even for hour-long episodes. SEA is flexible and can adapt to a wide range of scenarios, utilizing resources from small lexicons to large continuous corpora. Experiments on four sign language datasets demonstrate state-of-the-art alignment performance, highlighting the potential of SEA to generate high-quality parallel data for advancing sign language processing. SEA's code and models are openly available.
+                            </div>
+                        </header>
+                    </div>
+                </section>
+
+                <section id="video" class="main special">
+                    <header class="major">
+                        <h2> Talk at BMVA </h2>
+                    </header>
+                    <div class="row">
+                        <div class="col-xs-6 col-md-6 col-md-offset-6" style="padding:auto;margin:auto;border:">
+                            <iframe width="977" height="550" src="https://www.youtube.com/embed/g69WGPHScks" title="3-minute video" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="datasets" class="main special">
+                    <div class="major">
+                        <header class="major">
+                            <h2>Datasets</h2>
+                        </header>
+
+                        <div class="samples-nav">
+                            <button id="tab-bobsl" class="button primary small" onclick="switchDataset('bobsl')">BOBSL</button>
+                            <button id="tab-how2sign" class="button small" onclick="switchDataset('how2sign')">How2Sign</button>
+                            <button id="tab-wmt-slt" class="button small" onclick="switchDataset('wmt_slt')">WMT-SLT SRF</button>
+                            <button id="tab-swisssli" class="button small" onclick="switchDataset('swisssli')">SwissSLi mitenand</button>
+                        </div>
+
+                        <div id="dataset-panel" style="margin-top: 1.5em; text-align: left; max-width: 700px; margin-left: auto; margin-right: auto;">
+                        </div>
+
+                        <p style="font-size:0.9em; color:#555; margin-top: 1.5em;">
+                            Episode-level train/val/test splits are available at <a href="https://github.com/J22Melody/SEA/tree/main/data" target="_blank" rel="noopener noreferrer">github.com/J22Melody/SEA/data</a>.
+                        </p>
+
+                        </div>
+                </section>
+
+                <section id="qualitative" class="main special">
+                    <div class="major">
+                        <header class="major">
+                            <h2>Qualitative Results</h2>
+                        </header>
+
+                        <div style="text-align:left; max-width:100%;">
+
+                            <figure style="margin:0 0 2em 0;">
+                                <img src="images/5224144816887051284_60_90_noSignGT_subGT.png" width="100%">
+                                <figcaption style="margin-top:0.5em; font-size:0.9em; color:#555; text-align:center;">(a) BOBSL (English&rarr;BSL; video id: <code>5224144816887051284</code>)</figcaption>
+                            </figure>
+
+                            <figure style="margin:0 0 2em 0;">
+                                <img src="images/ETOZLBScxWY-3-rgb_front_0_30_noSignGT_subGT.png" width="100%">
+                                <figcaption style="margin-top:0.5em; font-size:0.9em; color:#555; text-align:center;">(b) How2Sign (English&rarr;ASL; video id: <code>ETOZLBScxWY-3-rgb_front</code>)</figcaption>
+                            </figure>
+
+                            <figure style="margin:0 0 2em 0;">
+                                <img src="images/srf.2020-03-13_1314_1344_noSignGT_subGT.png" width="100%">
+                                <figcaption style="margin-top:0.5em; font-size:0.9em; color:#555; text-align:center;">(c) WMT-SLT SRF (German&rarr;DSGS; video id: <code>srf.2020-03-13</code>)</figcaption>
+                            </figure>
+
+                            <figure style="margin:0 0 2em 0;">
+                                <img src="images/2023-02-16_ein_hund_furs_35_65_noSignGT_subGT.png" width="100%">
+                                <figcaption style="margin-top:0.5em; font-size:0.9em; color:#555; text-align:center;">(d) SwissSLi mitenand (German&rarr;DSGS; video id: <code>2023-02-16_ein_hund_f&uuml;rs</code>)</figcaption>
+                            </figure>
+
+                            <p style="font-size:0.9em; color:#555; margin-top:1em;">
+                                <strong>Qualitative Results:</strong> for each dataset, we sample a 30-second validation clip and show keyframes every 2 seconds. Rows: predicted signs from the segmentation model (yellow), original subtitles (green), SEA-aligned subtitles (blue), and expert-aligned ground truth (purple). In general, segmentation identifies the signing frames of interest; SEA then shifts subtitles toward higher text&ndash;sign similarity&mdash;for example, in BSL the first subtitle begins at the fingerspelling AMPNIBIS (&#8220;amphibians&#8221;) and ends at the sign for &#8220;sliminess&#8221;.
+                            </p>
+
+                        </div>
+                    </div>
+                </section>
+
+                <section class="main special">
+                    <header class="major">
+                        <h2> Acknowledgements</h2>
+                    </header>             
+                    
+                    <div class="container" style="max-width: 900px; margin: 0 auto;">
+                        <div class="content align-center">
+                            The BOBSL images in this paper are used with the kind permission of the BBC.
+                            ZJ is funded by the Swiss Innovation Agency (Innosuisse) flagship IICT (PFFS-21-47). This work was supported by the ANR project CorVis ANR-21-CE23-0003-01, the UKRI EPSRC Programme Grant SignGPT EP/Z535370/1, and a Royal Society Research Professorship RSRP\R\241003, the Institute of Information &amp; Communications Technology Planning &amp; Evaluation (IITP) grant funded by the Korean government (MSIT, RS-2025-02263977, Development of Communication Platform supporting User Anonymization and Finger Spelling-Based Input Interface for Protecting the Privacy of Deaf Individuals).
+                        </div>
+                    </div>       
+                </section>
+
+                <footer id="footer">
+                    <p class="copyright">&copy; Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+                </footer>
+            </div>
+        </div>
+
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.scrollex.min.js"></script>
+        <script src="assets/js/jquery.scrolly.min.js"></script>
+        <script src="assets/js/browser.min.js"></script>
+        <script src="assets/js/breakpoints.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <script src="assets/js/main.js"></script>
+
+        <script>
+            const datasetInfo = {
+                'bobsl': {
+                    label: 'BOBSL',
+                    description: 'British Sign Language (BSL) corpus from BBC television programmes.',
+                    links: {
+                        videos: 'https://www.robots.ox.ac.uk/~vgg/data/bobsl/#download',
+                        original_subtitles: 'https://www.robots.ox.ac.uk/~vgg/data/bobsl/#download',
+                        sea_subtitles: '',
+                        manual_subtitles: 'https://www.robots.ox.ac.uk/~vgg/data/bobsl/#aligned_sentences'
+                    }
+                },
+                'how2sign': {
+                    label: 'How2Sign',
+                    description: 'American Sign Language (ASL) corpus of instructional videos.',
+                    links: {
+                        videos: 'https://how2sign.github.io/#download',
+                        original_subtitles: 'https://how2sign.github.io/#download',
+                        sea_subtitles: '',
+                        manual_subtitles: 'https://how2sign.github.io/#download'
+                    }
+                },
+                'wmt_slt': {
+                    label: 'WMT-SLT SRF',
+                    description: 'Swiss German Sign Language (DSGS) corpus from SRF news broadcasts.',
+                    links: {
+                        videos: 'https://zenodo.org/records/6637392',
+                        original_subtitles: 'data/wmt/subtitles_audio_aligned/',
+                        sea_subtitles: '',
+                        manual_subtitles: 'https://zenodo.org/records/6637392'
+                    }
+                },
+                'swisssli': {
+                    label: 'SwissSLi mitenand',
+                    description: 'Swiss German Sign Language (DSGS) corpus from the <em>mitenand</em> programme.',
+                    links: {
+                        videos: 'https://doi.org/10.48656/h7er-cj04',
+                        original_subtitles: 'https://doi.org/10.48656/h7er-cj04',
+                        sea_subtitles: '',
+                        manual_subtitles: 'data/swisssli/subtitles_manual_aligned/'
+                    }
+                }
+            };
+
+            function renderDatasetPanel(dsKey) {
+                const ds = datasetInfo[dsKey];
+                const linkRow = (label, url) => url
+                    ? `<li><a href="${url}" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt" style="font-size:0.8em; margin-right:0.5em;"></i>${label}</a></li>`
+                    : `<li style="color:#aaa;"><i class="fas fa-clock" style="font-size:0.8em; margin-right:0.5em;"></i>${label} <em>(coming soon)</em></li>`;
+
+                $('#dataset-panel').html(`
+                    <p>${ds.description}</p>
+                    <ul style="list-style:none; padding:0; line-height:2.2em; font-size:1.05em;">
+                        ${linkRow('Videos', ds.links.videos)}
+                        ${linkRow('Original subtitles', ds.links.original_subtitles)}
+                        ${linkRow('SEA-aligned subtitles', ds.links.sea_subtitles)}
+                        ${linkRow('Manual-aligned subtitles (ground truth)', ds.links.manual_subtitles)}
+                    </ul>
+                `);
+            }
+
+            function switchDataset(dsKey) {
+                $('.samples-nav button').removeClass('primary');
+                $('#tab-' + dsKey.replace('_', '-')).addClass('primary');
+                renderDatasetPanel(dsKey);
+            }
+
+            $(document).ready(function() {
+                switchDataset('bobsl');
+            });
+        </script>
+        <script>
+            document.querySelectorAll('a[href^="http"]').forEach(function(a) {
+                a.setAttribute('target', '_blank');
+                a.setAttribute('rel', 'noopener noreferrer');
+            });
+
+
+        </script>
+    </body>
+</html>

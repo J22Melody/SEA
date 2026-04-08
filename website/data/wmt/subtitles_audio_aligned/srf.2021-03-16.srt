@@ -1,0 +1,944 @@
+1
+00:00:09,010 --> 00:00:11,377
+Die "Tagesschau", meine Damen und Herren, guten Abend.
+
+2
+00:00:12,018 --> 00:00:13,937
+Heute Dienstag mit diesen Themen:
+
+3
+00:00:15,632 --> 00:00:22,268
+An der Corona-Front blinken die Warnsignale, während die Kantone Richtung Öffnung drängen.
+
+4
+00:00:24,039 --> 00:00:29,667
+US-Aussenminister Blinken will die Sicherheitsallianz mit Japan stärken.
+
+5
+00:00:32,689 --> 00:00:38,345
+Düstere Aussichten für das Wasserschloss Schweiz: Der Klimawandel bringt einiges durcheinander.
+
+6
+00:00:40,180 --> 00:00:46,468
+Das Konzertverbot reisst auch den Blasmusikvereinen ein Loch in die Kasse.
+
+7
+00:00:48,029 --> 00:00:52,197
+Wechselnd bewölkt mit Schnee oder Regen bei 4-8 °C.
+
+8
+00:00:54,179 --> 00:00:56,627
+Ist es die dritte Welle oder nicht?
+
+9
+00:00:57,268 --> 00:01:06,667
+Gesundheitsexperten legen sich noch nicht fest, aber fest steht: Die Zahl von Corona-Neuinfektionen steigt wieder an, seit gestern um 1'438 Fälle.
+
+10
+00:01:07,308 --> 00:01:12,749
+Fast 80 % davon gehen auf Virusvarianten zurück, v.a. auf die britische.
+
+11
+00:01:13,390 --> 00:01:21,906
+Und vieles deutet darauf hin, dass diese nicht nur ansteckender, sondern, anders als anfänglich angenommen, auch gefährlicher ist als das ursprüngliche Virus.
+
+12
+00:01:22,548 --> 00:01:29,747
+Anna Gossenreiter: Sanken die Zahlen seit Anfang Jahr, so habe sich der Trend nun umgekehrt.
+
+13
+00:01:30,388 --> 00:01:34,756
+Gehe es im jetzigen Tempo weiter, würden sich die Fallzahlen in etwa vier Wochen verdoppeln.
+
+14
+00:01:35,398 --> 00:01:40,288
+Die Fallzahlen in der Schweiz steigen weiter, die Entwicklung ist äusserst unsicher.
+
+15
+00:01:40,930 --> 00:01:48,376
+Es stellt sich die Frage, ob die Schweiz vor einer dritten Welle steht.
+
+16
+00:01:49,017 --> 00:01:52,396
+Zwar sei ein grosser Teil der Risikogruppen bereits geimpft.
+
+17
+00:01:53,037 --> 00:01:55,765
+Doch die britische Virusvariante macht den Experten Sorge.
+
+18
+00:01:56,407 --> 00:02:00,816
+Rund 80 % der Neuansteckungen gehen auf das Konto der Varianten.
+
+19
+00:02:01,456 --> 00:02:10,217
+Wir gehen davon aus, dass die britische Variante mit Sicherheit besser übertragbar ist als das bisher zirkulierende Virus.
+
+20
+00:02:10,859 --> 00:02:23,476
+Neu dazugekommen sind Informationen und Studien, die u.U. nahelegen, dass es zu schwereren Verläufen und zu mehr Todesfällen nach Ansteckung mit der britischen Variante kommt.
+
+21
+00:02:24,117 --> 00:02:27,686
+Am Freitag wird der Bundesrat über mögliche Lockerungen informieren.
+
+22
+00:02:28,327 --> 00:02:31,556
+Lässt die epidemiologische Lage diese zu?
+
+23
+00:02:32,197 --> 00:02:34,086
+Die Situation ist unsicher.
+
+24
+00:02:34,727 --> 00:02:38,568
+Es geht eher in eine Richtung, die wir uns nicht gewünscht hätten.
+
+25
+00:02:39,210 --> 00:02:44,825
+Die Frage ist: Hat sich der Trend gekehrt? Nehmen die Fallzahlen wieder zu?
+
+26
+00:02:45,466 --> 00:02:48,166
+Vor diesem Hintergrund können Sie es sich selber ausmalen:
+
+27
+00:02:48,807 --> 00:02:53,555
+Jeder Öffnungsschritt ist mit einem gewissen Risiko verbunden.
+
+28
+00:02:54,197 --> 00:02:59,091
+Bei den Öffnungsschritten spielen immer auch wirtschaftliche und gesellschaftliche Überlegungen eine Rolle.
+
+29
+00:02:59,617 --> 00:03:01,805
+Und da steht der Bundesrat unter Druck.
+
+30
+00:03:04,479 --> 00:03:15,245
+Der Druck auf den Bundesrat kommt insbesondere von den Kantonen: Sie fordern Lockerungen der jetzigen Corona-Massnahmen und verlangen dabei auch mehr Tempo.
+
+31
+00:03:15,887 --> 00:03:20,301
+So wollen z.B. mehrere Kantone die Restaurants schon ab dem 22. März wieder ganz öffnen.
+
+32
+00:03:20,937 --> 00:03:22,771
+Eine Frage mit hohem Dilemmapotenzial.
+
+33
+00:03:23,659 --> 00:03:28,306
+Christa Gall: Einige Kantone möchten schneller wieder öffnen.
+
+34
+00:03:28,946 --> 00:03:33,104
+Der Bundesrat und ein Teil der Kantone sind hier unterschiedlicher Auffassung.
+
+35
+00:03:33,747 --> 00:03:43,776
+Beim Tempo und bei der Intensität gehen die Meinungen auseinander - nicht nur bei Bund und Kantonen, sondern auch zwischen den Kantonen.
+
+36
+00:03:44,418 --> 00:03:44,731
+So wollen die Kantone am 22. März oder in einem nächsten Schritt lockern: Alle Kantone wollen die Aussen-bereiche der Restaurants öffnen.
+
+37
+00:03:52,996 --> 00:03:55,507
+Die Hälfte möchte auch die Innenbereiche öffnen.
+
+38
+00:03:56,149 --> 00:03:59,245
+Praktisch alle Kantone wollen wieder Präsenzzeit an Hochschulen.
+
+39
+00:03:59,887 --> 00:04:05,276
+Ein paar Kantone fordern statt einer Homeoffice-Pflicht eine Homeoffice-Empfehlung.
+
+40
+00:04:05,917 --> 00:04:10,735
+Der Bundesrat hingegen schlägt weniger weitgehende Öffnungen vor, und nur bei günstiger epidemiologischer Lage.
+
+41
+00:04:11,377 --> 00:04:15,555
+Die Lage sei momentan nicht die gewünschte, so das BAG.
+
+42
+00:04:16,289 --> 00:04:23,526
+Die Situation ist sicher nicht die günstigste, um Öffnungsschritte im grossen Stil umzusetzen.
+
+43
+00:04:24,166 --> 00:04:28,055
+Der Bund und ein Teil der Kantone beurteilen die Situation also unterschiedlich.
+
+44
+00:04:28,697 --> 00:04:30,717
+Die Kantone gehen von anderen Kriterien aus.
+
+45
+00:04:31,359 --> 00:04:41,086
+Sie setzen auf die zunehmenden Impfungen, die auch im nächsten Monat stärker zum Tragen kommen, aber auch auf das verbreitete Testen.
+
+46
+00:04:41,728 --> 00:04:49,475
+Sie wünschen sich deshalb eine raschere Öffnung als die vom Bundesrat vorgesehene.
+
+47
+00:04:50,116 --> 00:04:55,726
+Indes steigen auch in vielen Regionen Europas die Fallzahlen wieder.
+
+48
+00:04:56,365 --> 00:05:01,891
+Aber die Nachbarländer führen ihre strengen Massnahmen weiter oder verschärfen die Regeln gar.
+
+49
+00:05:00,996 --> 00:05:03,215
+Nur das Bundesland Vorarlberg lockert vorerst.
+
+50
+00:05:03,856 --> 00:05:07,096
+Rund um die Schweiz strenge Regeln - und die Schweiz will öffnen.
+
+51
+00:05:07,736 --> 00:05:10,193
+Kann das gut gehen?
+
+52
+00:05:10,827 --> 00:05:23,115
+Zurzeit sind die Fallzahlen in der Schweiz verglichen mit den umliegenden Ländern tief - mit Ausnahme von Deutschland -, auch mit einer vergleichsweise lockeren Strategie.
+
+53
+00:05:23,757 --> 00:05:26,464
+Der Bundesrat wird am Freitag über allfällige Öffnungen entscheiden.
+
+54
+00:05:29,507 --> 00:05:44,995
+Schon jetzt schauen viele Schweizer Restaurantbesitzerinnen und Gastronomen sehnsüchtig ins benachbarte österreichische Bundesland Vorarlberg, das, wie gehört, einen Schritt weiter ist, sprich: Seit gestern sind dort Restaurants und Bars wieder offen.
+
+55
+00:05:45,637 --> 00:05:54,185
+Zwar gelten strenge Regeln wie negative Tests, Maskenpflicht bis zum Platz, max. vier Personen pro Tisch und Sperrstunde ist bereits um 20 Uhr.
+
+56
+00:05:54,827 --> 00:06:02,331
+Trotzdem sieht man auffällig viele glückliche Gesichter in den Gaststätten östlich des Rheins.
+
+57
+00:06:03,019 --> 00:06:06,995
+Peter Balzli: Endlich wieder Alltag im Gasthaus zum Goldenen Hirschen in Bregenz.
+
+58
+00:06:07,637 --> 00:06:09,545
+Trotz strenger Auflagen ist das Lokal gut besucht.
+
+59
+00:06:10,185 --> 00:06:13,134
+Hinten in der Bar wird schon wieder Geburtstag gefeiert.
+
+60
+00:06:17,337 --> 00:06:20,411
+Etwas Schönes, supermässig.
+
+61
+00:06:23,046 --> 00:06:24,655
+Super ist das.
+
+62
+00:06:25,297 --> 00:06:26,745
+Ein sehr schönes Gefühl.
+
+63
+00:06:27,388 --> 00:06:29,930
+Es ist toll, dass man wieder mal ein bisschen normal leben kann.
+
+64
+00:06:30,571 --> 00:06:35,024
+Auch Wirtin Andrea Kinz ist heilfroh, wieder Gäste empfangen zu können.
+
+65
+00:06:35,666 --> 00:06:37,754
+Es ist ein Tag der grossen Freude.
+
+66
+00:06:38,396 --> 00:06:39,924
+Es ist fast wie Weihnachten und Ostern zusammen.
+
+67
+00:06:40,565 --> 00:06:43,456
+Endlich kehren wir zurück in einen neuen Alltag.
+
+68
+00:06:44,096 --> 00:06:46,654
+Doch nur etwa ein Drittel aller Gaststätten ist geöffnet.
+
+69
+00:06:47,295 --> 00:06:56,154
+Mit Sperrstunde um 20 Uhr lasse sich ein Speiselokal kaum rentabel betreiben, sagt der Präsident der Köche Österreichs, Mike Pansi.
+
+70
+00:06:56,796 --> 00:06:59,524
+Sein Lokal bleibt deshalb zu.
+
+71
+00:07:00,166 --> 00:07:05,314
+Wir verkaufen nicht nur fine dining und gutes Essen, sondern auch Atmosphäre.
+
+72
+00:07:05,955 --> 00:07:07,920
+In dieser kurzen Zeit am Abend ist das nicht möglich.
+
+73
+00:07:08,553 --> 00:07:13,324
+Sogar zu Restaurantterrassen bekommt nur Zutritt, wer bis zum Platz eine FFP2-Maske trägt.
+
+74
+00:07:13,966 --> 00:07:17,374
+Und wer einen negativen Corona-Test vorweisen kann.
+
+75
+00:07:18,016 --> 00:07:23,494
+Walter Tobler, Präsident der St. Galler Gastronomen, sagt, er war vor der Öffnung neidisch auf seine Vorarlberger Kollegen.
+
+76
+00:07:24,136 --> 00:07:26,774
+Jetzt sieht er die Sache anders.
+
+77
+00:07:27,926 --> 00:07:30,674
+Die Maskenpflicht im Garten schon.
+
+78
+00:07:31,316 --> 00:07:35,447
+Negative Tests, auch wenn man nur draussen im Garten sitzt.
+
+79
+00:07:36,088 --> 00:07:39,533
+Die Lokale müssen um 20 Uhr schliessen.
+
+80
+00:07:40,175 --> 00:07:48,081
+Aber ab 20 Uhr ist Ausgehverbot - das macht alles nicht wirklich Sinn.
+
+81
+00:07:48,886 --> 00:07:57,622
+Im Goldenen Hirschen glaubt die Wirtin, dass sich die Öffnung trotzdem knapp rechnet, auch wenn sie die Platzzahl für Gäste halbieren musste.
+
+82
+00:07:58,264 --> 00:08:08,051
+Daher fahren wir mit weniger als der Hälfte des Personals und nehmen an, dass wir so wenigstens mit einer Null davonkommen.
+
+83
+00:08:10,036 --> 00:08:16,103
+Das Problem: Wenn die Stimmung steigt, sind Distanz- und Maskenregeln nur sehr schwer zu kontrollieren.
+
+84
+00:08:16,745 --> 00:08:21,036
+Diese Gäste wurden kurz darauf von der Wirtin resolut aus dem Lokal gewiesen.
+
+85
+00:08:24,136 --> 00:08:35,373
+Die erste Auslandreise eines neuen amerikanischen Aussenministers wird immer mit Spannung erwartet und international mitverfolgt: Anthony Blinken führt sie nach Asien.
+
+86
+00:08:36,015 --> 00:08:41,215
+Um die Wichtigkeit seines Besuchs zu unterstreichen, ist auch Verteidigungsminister Lloyd Austin mit dabei.
+
+87
+00:08:41,856 --> 00:08:44,495
+Erste Station ist Japan - dann geht's weiter nach Südkorea.
+
+88
+00:08:45,136 --> 00:08:50,246
+Damit setzt die US-Regierung ein starkes Signal Richtung grossen Rivalen China.
+
+89
+00:08:54,465 --> 00:09:00,105
+Feierlicher Empfang für den hohen Besuch aus den Vereinigten Staaten.
+
+90
+00:09:00,746 --> 00:09:03,073
+Hier rechts Verteidigungsminister Lloyd Austin.
+
+91
+00:09:06,785 --> 00:09:09,153
+Und die Besucher aus den USA sparen nicht mit warmen Worten:
+
+92
+00:09:10,346 --> 00:09:25,442
+Wir stehen Schulter an Schulter, Arm in Arm mit Japan, dem Eckpfeiler des indopazifischen Bündnisses, das für Frieden und Sicherheit in dieser Region und auf der ganzen Welt sorgt - seit mehr als einem halben Jahrhundert.
+
+93
+00:09:26,083 --> 00:09:31,196
+Japan wisse die Geste Washingtons zu schätzen, sagt SRF-Korrespondent Thomas Stalder.
+
+94
+00:09:33,215 --> 00:09:43,023
+Nicht nur der Besuch und das Treffen selbst sind für Japan wichtig, sondern auch der Zeitpunkt - das erste Land einer solchen Reise der neuen US-Administration zu sein, das stärkt das Selbstwertgefühl der Japaner.
+
+95
+00:09:43,665 --> 00:09:45,573
+Ministerpräsident Suga plant für April eine Reise nach Washington.
+
+96
+00:09:46,214 --> 00:09:51,053
+Japan steht unter dem militärischen Schutzschild der USA und ist auf eine gute Zusammenarbeit angewiesen.
+
+97
+00:09:51,695 --> 00:09:55,343
+Diese Allianz war in den letzten Jahren infrage gestellt.
+
+98
+00:09:56,016 --> 00:10:02,771
+Präsident Trump hatte die amerikanischen Freunde in Asien mit seiner Politik - wie hier mit Nordkorea - verunsichert.
+
+99
+00:10:03,995 --> 00:10:07,003
+China hat dies genutzt und seinen Einfluss ausgebaut.
+
+100
+00:10:07,895 --> 00:10:14,353
+Die globale Lage hat sich in den letzten Jahren stark verändert, stärker noch hier vor Ort.
+
+101
+00:10:14,995 --> 00:10:25,205
+Das strategische Umfeld hat eine neue Dimension angenommen, nicht nur militärisch, sondern v.a. auch wirtschaftlich und technologisch.
+
+102
+00:10:25,846 --> 00:10:32,055
+Auf diese neue Situation wollen die USA, Japan und weitere Alliierte im Pazifik reagieren.
+
+103
+00:10:32,696 --> 00:10:44,226
+Wir sind vereint in der Vision einer freien und offenen indopazifischen Region, wo Länder die Regeln einhalten, zusammenarbeiten und ihre Konflikte friedlich beilegen.
+
+104
+00:10:44,865 --> 00:10:51,601
+Wir werden uns insbesondere zur Wehr setzen, wenn China mit Zwang oder Aggression seine Ziele zu erreichen versucht.
+
+105
+00:10:52,244 --> 00:10:55,692
+Diplomatie und Zusammenarbeit, um China die Stirn zu bieten.
+
+106
+00:10:56,333 --> 00:11:00,043
+So planen die USA also ihre neue Asienpolitik.
+
+107
+00:11:01,515 --> 00:11:07,213
+Chinas wachsender Dominanz will sich auch Grossbritannien entgegenstellen.
+
+108
+00:11:07,855 --> 00:11:14,811
+Das macht die Regierung von Premierminister Boris Johnson heute mit ihrer aussenpolitischen Strategie für das nächste Jahrzehnt klar.
+
+109
+00:11:15,534 --> 00:11:27,922
+Demnach will das Vereinigte Königreich den Fokus seiner Diplomatie und Sicherheitspolitik künftig in Richtung Asien verschieben: Schon in diesem Jahr will Grossbritannien ein Zeichen setzen.
+
+110
+00:11:28,564 --> 00:11:34,072
+Der neue Flugzeugträger Queen Elizabeth wird seinen ersten Einsatz in asiatischen Gewässern haben.
+
+111
+00:11:34,714 --> 00:11:37,792
+Dort will London künftig Präsenz markieren.
+
+112
+00:11:38,433 --> 00:11:45,432
+Denn der Indopazifikraum bilde mehr und mehr das geopolitische Zentrum der Welt, so die Analyse Londons.
+
+113
+00:11:46,073 --> 00:11:47,832
+Im Blick hat Grossbritannien v.a. China.
+
+114
+00:11:48,473 --> 00:11:53,992
+Zuletzt hat Pekings Vorgehen in Hongkong die Beziehung der beiden Länder schwer belastet.
+
+115
+00:11:54,634 --> 00:11:57,332
+Trotzdem sollen die wirtschaftlichen Beziehungen gepflegt werden.
+
+116
+00:11:57,974 --> 00:12:02,051
+Wo London jedoch seine Interessen bedroht sieht, will man Peking die Stirn bieten.
+
+117
+00:12:04,404 --> 00:12:10,732
+Es steht ausser Frage, dass China eine grosse Herausforderung darstellt für eine offene Gesellschaft wie unsere.
+
+118
+00:12:11,374 --> 00:12:18,381
+Wir werden aber auch mit China zusammenarbeiten, wo dies unseren Werten und Interessen entspricht.
+
+119
+00:12:19,023 --> 00:12:24,792
+Im Rahmen der neuen Sicherheitspolitik will Grossbritannien auch sein Atomarsenal ausbauen.
+
+120
+00:12:25,433 --> 00:12:31,885
+Die Zahl der U-Boot-gestützten Nuklearsprengköpfe soll von 180 auf 260 erhöht werden.
+
+121
+00:12:32,526 --> 00:12:35,892
+Dies angesichts gestiegener Risiken, wie es heisst.
+
+122
+00:12:36,534 --> 00:12:38,752
+Wir müssen ein Minimum an Abschreckung behalten.
+
+123
+00:12:39,393 --> 00:12:44,040
+Das ist die ultimative Versicherung für die Sicherheit der Menschen in diesem Land.
+
+124
+00:12:44,673 --> 00:12:54,063
+Trotz der sicherheitspolitischen Neuorientierung Richtung Asien: Grossbritannien will sich weiterhin auch in der NATO und in Europa engagieren.
+
+125
+00:12:54,705 --> 00:12:59,270
+Denn die grösste Bedrohung gehe immer noch von Russland aus, heisst es aus London.
+
+126
+00:13:00,764 --> 00:13:08,902
+London richtet seine Sicherheitspolitik also neu aus, spricht sogar von der wichtigsten Anpassung seit dem Ende des Kalten Krieges.
+
+127
+00:13:09,544 --> 00:13:15,611
+Jedenfalls sind es sehr ambitionierte Pläne - findet Grossbritannien-Korrespondentin Henriette Engbersen.
+
+128
+00:13:16,065 --> 00:13:22,571
+Die britische Aussenpolitik war jahrelang geprägt von den Beziehungen zu den USA und zu Europa.
+
+129
+00:13:23,033 --> 00:13:24,631
+Das ändert sich nun.
+
+130
+00:13:25,273 --> 00:13:31,421
+Den Brexit-Wählern muss Boris Johnson zeigen, dass er Grossbritannien globaler ausrichtet, nichts weniger hatte er versprochen.
+
+131
+00:13:32,063 --> 00:13:36,900
+Der Fokus auf Asien ist richtig und spannend, dort ist wirtschaftliches Potential.
+
+132
+00:13:37,543 --> 00:13:39,492
+Und mit China auch eine mögliche Gefahr.
+
+133
+00:13:40,133 --> 00:13:48,181
+Zwei kritische Fragen bleiben aber: Könnte man die EU als wichtigsten Handelspartner aus den Augen verlieren?
+
+134
+00:13:48,822 --> 00:13:54,020
+Und: Übernimmt sich Grossbritannien nicht mit seinen grossen Plänen im Fernen Osten?
+
+135
+00:13:55,373 --> 00:14:00,762
+Die grüne Welle hat die Schweizer Politik in den letzten Jahren mit einiger Wucht getroffen.
+
+136
+00:14:01,403 --> 00:14:05,191
+So hätte auch die Landwirtschaftspolitik umweltfreundlicher werden sollen.
+
+137
+00:14:05,832 --> 00:14:08,471
+Weniger Pestizide, weniger Dünger, so die Pläne des Bundesrates.
+
+138
+00:14:09,113 --> 00:14:10,971
+Aber der Schweizer Bauernverband stellt sich quer.
+
+139
+00:14:11,613 --> 00:14:15,390
+Und so sistiert der Nationalrat das Vorhaben.
+
+140
+00:14:16,023 --> 00:14:20,771
+An der Agrarpolitik wird vorderhand nicht gerüttelt.
+
+141
+00:14:21,823 --> 00:14:28,381
+Einen neuen Überblick über die Landwirtschaftspolitik - den muss der Bundesrat jetzt erarbeiten.
+
+142
+00:14:29,023 --> 00:14:38,221
+Es soll ein Ausblick sein, der neben der Produktion auch die Ernährung mit einbezieht und erklärt, wie die bisherige Selbstversorgung erhalten bleibt - mit weniger Pestiziden und weniger Bürokratie.
+
+143
+00:14:38,862 --> 00:14:41,421
+Das habe in der Agrarpolitik 22+ gefehlt.
+
+144
+00:14:43,393 --> 00:14:53,201
+Die Agrarpolitik 2022+ bietet der Landwirtschaft keine langfristige Perspektive und Zielsetzung und ist in der aktuellen Fassung unausgereift.
+
+145
+00:14:53,843 --> 00:15:03,851
+Doch den Bundesrat jetzt einen Bericht schreiben zu lassen, und bis dahin nicht weiterzumachen, das ist für Links-Grün schlicht Arbeitsverweigerung.
+
+146
+00:15:01,803 --> 00:15:07,673
+Der Erkenntnisgewinn aus diesem Bericht wird vernichtend klein sein.
+
+147
+00:15:08,314 --> 00:15:15,630
+Denn sie wissen jetzt schon, welche Landwirtschaft sie wollen, beziehungsweise nicht wollen.
+
+148
+00:15:16,273 --> 00:15:27,031
+Eine Verzögerung ist weder nötig noch hilfreich, sondern schadet dem ganzen Sektor und auch der Gesellschaft - oder anders gesagt: Je länger wir warten, umso teurer wird es am Ende.
+
+149
+00:15:27,672 --> 00:15:30,650
+Wir subventionieren unsere eigene Umweltzerstörung.
+
+150
+00:15:31,281 --> 00:15:33,811
+Im Saal kamen diese Argumente rechts der Mitte nicht an.
+
+151
+00:15:34,453 --> 00:15:38,120
+Auch nicht bei der FDP, die sonst oft gegen den Bauernverband entscheidet.
+
+152
+00:15:41,822 --> 00:15:50,500
+Ich mache mir keine Illusion, dass wir in Bezug auf die Ziele einer solchen Landwirtschaftspolitik grosse Einigkeit zelebrieren werden.
+
+153
+00:15:51,142 --> 00:15:56,889
+Es wird wahrscheinlich auch nicht die gleiche Mehrheit sein, die dann Änderungen beschliesst.
+
+154
+00:15:57,532 --> 00:16:08,210
+Für den Bauernverband ist der Entscheid also ein Gewinn auf Raten - der sich bereits im Juni bei den Abstimmungen über die Agrar-Initiativen rächen könnte, warnt der Landwirtschaftsminister.
+
+155
+00:16:08,851 --> 00:16:16,910
+Die Schweizer Landwirtschaft würde zeigen, dass sie sich ständig mit den Erwartungen der Gesellschaft weiterentwickelt und dass sie ihre führende Rolle in der Welt behalten will.
+
+156
+00:16:17,552 --> 00:16:24,390
+Das ist ein wichtiges Signal für die Ablehnung dieser extremen Initiativen.
+
+157
+00:16:25,583 --> 00:16:30,240
+Gewisse Pestizidregeln hat der Nationalrat zwar dennoch beschlossen.
+
+158
+00:16:30,872 --> 00:16:36,960
+Aber mit der Sistierung verzögert sich die ganze neue Landwirtschaftspolitik um Jahre.
+
+159
+00:16:37,602 --> 00:16:41,750
+Der Bund schätzt, dass die Bestimmungen erst 2025 in Kraft treten könnten.
+
+160
+00:16:43,292 --> 00:16:48,219
+Geht's um die Zukunft der Schweizer Landwirtschaft, geht's immer auch um Ressourcen - in der Schweiz v.a. um Wasser.
+
+161
+00:16:48,852 --> 00:16:53,390
+Das lebenswichtige Gut droht je nach Region und Jahreszeit bis Ende des Jahrhunderts knapp zu werden.
+
+162
+00:16:54,032 --> 00:16:59,440
+Zu diesem Schluss kommt eine Studie zum Thema Gewässer und Klimawandel im Auftrag des Bundes.
+
+163
+00:17:00,081 --> 00:17:08,571
+Demnach sind die Aussichten für das Wasserschloss Schweiz ziemlich düster, aber nicht hoffnungslos.
+
+164
+00:17:07,842 --> 00:17:11,712
+Der Plaine-Morte-Gletscher an der Lenk ist auf dem Rückzug.
+
+165
+00:17:12,354 --> 00:17:17,058
+Der Temperaturanstieg bis Ende des Jahrhunderts wird diesen noch massiv beschleunigen.
+
+166
+00:17:17,691 --> 00:17:21,209
+Denn statt Schnee wird auf 3'000 m Höhe vermehrt Regen fallen.
+
+167
+00:17:21,851 --> 00:17:29,359
+Die Konsequenz: Im Flachland werden die Flüsse in den Wintermonaten bis zu 25 % mehr Wasser führen.
+
+168
+00:17:30,002 --> 00:17:36,631
+Fehlen wird das lebenswichtige Gut dann im Spätsommer, mit bis zu 50 % Rückgang rechnen die Forscher.
+
+169
+00:17:37,270 --> 00:17:41,079
+Als Erste spüren werden dies die Bauern.
+
+170
+00:17:41,782 --> 00:17:49,131
+Sie müssen sich darauf einstellen, dass sie in Zukunft nicht einfach Wasser aus den Fliessgewässern entnehmen können, um zu bewässern.
+
+171
+00:17:50,130 --> 00:17:52,099
+Es ist ähnlich wie im Jahr 2018.
+
+172
+00:17:52,741 --> 00:17:58,670
+Der Sommer 2018 ist ein Vorbild für einen zukünftigen normalen Sommer in der Schweiz.
+
+173
+00:17:59,301 --> 00:18:05,388
+Ausgetrocknete Flussläufe im Bündnerland, Schiffe mit halber Fracht wegen Niedrigwasser auf dem Rhein.
+
+174
+00:18:10,721 --> 00:18:19,789
+Die Forscher rechnen, dass deshalb auch Starkregenereignisse wie im Jahr 2017 in Zofingen zunehmen und bis zu 20 % stärker ausfallen werden.
+
+175
+00:18:20,431 --> 00:18:22,790
+Ein Problem ist dies v.a. für Städte.
+
+176
+00:18:23,431 --> 00:18:24,849
+Sie sehen hinter mir eine versiegelte Fläche.
+
+177
+00:18:25,490 --> 00:18:27,016
+Diese Fläche kann kein Wasser aufnehmen.
+
+178
+00:18:27,656 --> 00:18:29,039
+Es findet keine Filtration statt.
+
+179
+00:18:29,681 --> 00:18:35,750
+Der Starkregen wird sich auf dieser Fläche verteilen und für die Gebäude zur Gefahr werden.
+
+180
+00:18:36,391 --> 00:18:50,858
+Die gute Nachricht: Die Studie zeigt auch, steigende Schäden durch Naturereignisse und tiefe Wasserstände lassen sich mit einer Reduktion der CO2-Emissionen gemäss dem Pariser Klimaabkommen wirkungsvoll reduzieren.
+
+181
+00:18:51,494 --> 00:18:55,410
+Dass wir im Winter mehr und im Sommer weniger Wasser haben, lässt sich nicht verhindern.
+
+182
+00:18:56,051 --> 00:18:57,688
+Aber das Ausmass lässt sich stark reduzieren.
+
+183
+00:18:58,321 --> 00:19:02,290
+Mit Klimaschutz haben wir etwas mehr Wasser im Winter und etwas weniger im Sommer.
+
+184
+00:19:02,932 --> 00:19:05,628
+Ohne Klimaschutz ist dies viel stärker.
+
+185
+00:19:06,270 --> 00:19:14,379
+Die Studie zum Wasserhaushalt der Zukunft zeigt einmal mehr: Klimaschutz ist nicht eine Frage der Machbarkeit, sondern des politischen Willens.
+
+186
+00:19:16,561 --> 00:19:22,259
+Man erinnert sich möglicherweise nicht mehr so genau ans Datum, aber bestimmt an diesen Moment und seine Folgen.
+
+187
+00:19:22,900 --> 00:19:28,179
+Heute genau vor einem Jahr.
+
+188
+00:19:31,392 --> 00:19:44,059
+Es war ein historischer Auftritt der Schweizer Regierung: Der Bundesrat hat heute entschieden, die Situation als ausserordentliche Lage zu erklären.
+
+189
+00:19:44,700 --> 00:19:51,559
+Schliessen mussten noch am selben Tag neben Schulen auch Freizeitlokale, Restaurants und Geschäfte.
+
+190
+00:19:52,201 --> 00:19:57,211
+Ausgenommen waren nur Lebensmittelläden, Apotheken und Postfilialen.
+
+191
+00:19:58,711 --> 00:20:00,931
+Es folgte die grosse Leere.
+
+192
+00:20:01,440 --> 00:20:05,656
+In den Städten, aber auch in den Regalen der Lebensmittelgeschäfte.
+
+193
+00:20:06,289 --> 00:20:08,880
+Der Shutdown brachte die grosse Entschleunigung:
+
+194
+00:20:09,521 --> 00:20:18,689
+Bei der SBB verzeichnete man einen Einbruch von rund 80 %, und auch der Strassenverkehr ging stark zurück, um ein Viertel im Vergleich zur Vorwoche.
+
+195
+00:20:19,331 --> 00:20:22,669
+Für mehr Mobilität sorgte der Bundesratsentscheid im Militär:
+
+196
+00:20:23,310 --> 00:20:28,251
+8'000 Armeeangehörige bot der Bundesrat auf, um die Kantone zu unterstützen.
+
+197
+00:20:28,939 --> 00:20:30,378
+Auch dies war historisch.
+
+198
+00:20:32,300 --> 00:20:37,219
+Eine Mobilmachung der Armee in diesem Ausmass hat es seit dem Zweiten Weltkrieg nicht mehr gegeben.
+
+199
+00:20:37,859 --> 00:20:43,338
+An jenem Montagabend vor einem Jahr nutzten diese Tanzfreudigen die letzten Stunden aus.
+
+200
+00:20:43,970 --> 00:20:45,958
+Um Mitternacht war Schluss.
+
+201
+00:20:47,601 --> 00:20:49,827
+Ja, und dann stand plötzlich alles still.
+
+202
+00:20:50,470 --> 00:20:52,189
+Das traf auch das Vereinsleben hart.
+
+203
+00:20:52,830 --> 00:20:55,419
+Bis heute insbesondere die Blasmusikvereine.
+
+204
+00:20:56,060 --> 00:21:07,251
+Weil bei ihnen und bei Chören zu viele Aerosole durch die Luft wirbeln, beurteilt der Bund das Ansteckungsrisiko dort als besonders hoch.
+
+205
+00:21:07,790 --> 00:21:12,619
+D.h.: keine Konzerte, keine Auftritte und Proben maximal zu fünft.
+
+206
+00:21:13,261 --> 00:21:18,451
+Die rund 3'000 Blasmusikvereine - ein Trauerspiel im Vergleich zur Vergangenheit.
+
+207
+00:21:18,621 --> 00:21:25,968
+* Beschwingte Blasmusik * So sieht sie aus und v.a. so klingt sie: die Feldmusik Baar beim Konzert in voller Besetzung.
+
+208
+00:21:29,380 --> 00:21:33,729
+Und das ist - im selben Saal - die aktuelle Realität.
+
+209
+00:21:34,370 --> 00:21:38,998
+Proben waren lange gar nicht möglich, jetzt maximal zu fünft und mit Abstand.
+
+210
+00:21:39,640 --> 00:21:42,678
+An ein Konzert ist nicht zu denken.
+
+211
+00:21:43,320 --> 00:21:48,637
+Die Freude während der Probe dem Publikum zeigen zu dürfen - das fehlt schon.
+
+212
+00:21:49,280 --> 00:21:50,948
+Man kann den Alltag etwas vergessen.
+
+213
+00:21:51,590 --> 00:21:57,038
+Man geht nach der Probe nach Hause und das Problem, das man vorher hatte, ist wie weggeblasen.
+
+214
+00:21:57,679 --> 00:22:02,598
+Nach der Probe zusammen plaudern, ein Bier trinken - das vermisse ich sehr.
+
+215
+00:22:03,240 --> 00:22:04,698
+Wofür übt man, wenn man kein Ziel hat?
+
+216
+00:22:05,339 --> 00:22:10,938
+Diese Stimmen, sie stehen stellvertretend für 70'000 Blasmusikantinnen und -musikanten in der Schweiz.
+
+217
+00:22:11,580 --> 00:22:14,857
+Die Situation schlägt aufs Gemüt und aufs Portemonnaie.
+
+218
+00:22:15,499 --> 00:22:22,278
+Auf dem Tisch von Andy Kollegger vom Schweizerischen Blasmusikverband sind schon 3'000 Gesuche um finanzielle Unterstützung gelandet.
+
+219
+00:22:22,919 --> 00:22:27,208
+Dies, weil die wichtigsten Einnahmequellen der Vereine - die Konzerte - wegfallen.
+
+220
+00:22:27,850 --> 00:22:32,937
+Wir haben ausgerechnet, dass in den letzten zwölf Monaten rund 10'000 Veranstaltungen weggefallen sind.
+
+221
+00:22:36,219 --> 00:22:38,788
+Die Kosten laufen natürlich weiter.
+
+222
+00:22:39,429 --> 00:22:48,457
+Das sind z.B. Instrumentenwartungen, Mieten für Probelokale und die Löhne der Dirigentinnen und Dirigenten.
+
+223
+00:22:49,099 --> 00:22:54,168
+Neben den finanziellen befürchtet die Szene auch personelle Einbussen.
+
+224
+00:22:54,809 --> 00:22:58,228
+Nicht Angst, aber Respekt, dass doch einige Mitglieder abspringen.
+
+225
+00:22:58,870 --> 00:23:04,688
+Ältere Leute könnten finden, das sei der richtige Zeitpunkt zum Aufhören.
+
+226
+00:23:05,320 --> 00:23:09,707
+Als nächster Schritt hofft der Verband, dass Proben mit 15 Personen wieder erlaubt werden.
+
+227
+00:23:10,348 --> 00:23:17,148
+Er weiss aber auch: Bis Konzerte wieder möglich sind, dürfte es noch einige Monate dauern.
+
+228
+00:23:19,740 --> 00:23:26,507
+Und jetzt zu Franziska Egli und den Themen von "10 vor 10": Ja, das Seilziehen um die Öffnungen ist in vollem Gange.
+
+229
+00:23:27,149 --> 00:23:29,797
+Wir reden mit dem St. Galler Regierungspräsidenten:
+
+230
+00:23:30,439 --> 00:23:35,217
+Ihm und auch anderen Kantonen gehen die Öffnungsschritte des Bundesrates zu wenig weit.
+
+231
+00:23:35,859 --> 00:23:41,411
+Und: Kuno Lauener wird 60.
+
+232
+00:23:42,608 --> 00:23:45,358
+Er schlägt in Hinblick auf die Zukunft sehr nachdenkliche Töne an.
+
+233
+00:23:45,999 --> 00:23:46,451
+Dies und mehr - heute um 10 vor 10.
+
+234
+00:23:47,699 --> 00:23:48,837
+- Danke, Franziska.
+
+235
+00:23:51,031 --> 00:23:56,331
+Hier nun gleich "Meteo" und danach ermittelt "Der Staatsanwalt" in einem angeblich sauberen Mord.
+
+236
+00:23:57,019 --> 00:23:58,587
+Schönen Abend und bis morgen.
+
