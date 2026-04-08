@@ -1,1 +1,10 @@
 __pycache__/
+
+# macOS
+.DS_Store
+
+# PDF sources (converted to PNG for web)
+website/images/*.pdf
+
+# Dataset files — check redistribution rights before committing
+website/data/
