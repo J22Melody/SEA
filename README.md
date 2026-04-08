@@ -157,11 +157,11 @@ You should expect the following output files, including intermediate segmentatio
 
 ## Citation
 ```
-@article{jiang2025segment,
-  title   = {Segment, Embed, and Align: A Universal Recipe for Aligning Subtitles to Signing},
-  author  = {Jiang, Zifan and Jang, Youngjoon and Momeni, Liliane and Varol, G{\"u}l and Ebling, Sarah and Zisserman, Andrew},
-  journal = {arXiv preprint arXiv:2512.08094},
-  year    = {2025},
-  url     = {https://arxiv.org/abs/2512.08094}
+@inproceedings{jiang2026segment,
+  title     = {Segment, Embed, and Align: A Universal Recipe for Aligning Subtitles to Signing},
+  author    = {Jiang, Zifan and Jang, Youngjoon and Momeni, Liliane and Varol, G{\"u}l and Ebling, Sarah and Zisserman, Andrew},
+  booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)},
+  year      = {2026},
+  url       = {https://arxiv.org/abs/2512.08094}
 }
 ```
