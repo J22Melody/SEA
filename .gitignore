@@ -5,3 +5,6 @@ __pycache__/
 
 # PDF sources (converted to PNG for web)
 website/images/*.pdf
+
+# Dataset files — check redistribution rights before committing
+website/data/
