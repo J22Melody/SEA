@@ -60,6 +60,9 @@
 							if ($this.attr('href').charAt(0) != '#')
 								return;
 
+						// Update the URL hash so the link is shareable.
+							history.replaceState(null, '', $this.attr('href'));
+
 						// Deactivate all links.
 							$nav_a
 								.removeClass('active')

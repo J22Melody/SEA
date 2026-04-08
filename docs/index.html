@@ -291,14 +291,33 @@
                 `);
             }
 
-            function switchDataset(dsKey) {
+            function activateDataset(dsKey) {
                 $('.samples-nav button').removeClass('primary');
                 $('#tab-' + dsKey.replace('_', '-')).addClass('primary');
                 renderDatasetPanel(dsKey);
             }
 
+            function switchDataset(dsKey) {
+                activateDataset(dsKey);
+                history.replaceState(null, '', '#dataset-' + dsKey);
+            }
+
             $(document).ready(function() {
-                switchDataset('bobsl');
+                const hash = window.location.hash;
+                const datasetMatch = hash.match(/^#dataset-(\w+)$/);
+                const initial = (datasetMatch && datasetInfo[datasetMatch[1]]) ? datasetMatch[1] : 'bobsl';
+                // Activate the tab without overwriting the hash
+                activateDataset(initial);
+
+                // Scroll to the correct section on load, after layout settles
+                setTimeout(function() {
+                    if (datasetMatch) {
+                        document.getElementById('datasets').scrollIntoView({ behavior: 'smooth' });
+                    } else if (hash) {
+                        const el = document.querySelector(hash);
+                        if (el) el.scrollIntoView({ behavior: 'smooth' });
+                    }
+                }, 100);
             });
         </script>
         <script>
