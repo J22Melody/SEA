@@ -7,4 +7,5 @@ __pycache__/
 docs/images/*.pdf
 
 # Dataset files — check redistribution rights before committing
-docs/data/
+docs/data/wmt/
+docs/data/swisssli/

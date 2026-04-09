@@ -88,7 +88,7 @@
                         </div>
                         <div class="row">
                             <div class="col-xs-12" style="padding:auto;margin:auto">
-                                <span style="font-size:25px">ACL 2026, San Diego, CA, USA</span><br>
+                                <span style="font-size:25px"><b>ACL 2026</b>, San Diego, USA</span><br>
                                 <span style="font-size:25px"><a href="https://arxiv.org/abs/2512.08094" style="text-decoration:underline">Arxiv preprint</a></span><br>
                                 <span style="font-size:20px">*Work done during a research visit to VGG, Oxford.</span>
                             </div>
@@ -231,46 +231,46 @@
                 'bobsl': {
                     label: 'BOBSL',
                     description: 'British Sign Language (BSL) corpus from BBC television programmes.',
-                    links: {
-                        videos: 'https://www.robots.ox.ac.uk/~vgg/data/bobsl/#download',
-                        original_subtitles: 'https://www.robots.ox.ac.uk/~vgg/data/bobsl/#download',
-                        sea_subtitles: '',
-                        manual_subtitles: 'https://www.robots.ox.ac.uk/~vgg/data/bobsl/#aligned_sentences'
-                    }
+                    links: [
+                        ['Videos', 'https://www.robots.ox.ac.uk/~vgg/data/bobsl/#download'],
+                        ['Original subtitles', 'https://www.robots.ox.ac.uk/~vgg/data/bobsl/#download'],
+                        ['SEA-aligned subtitles (55 episodes)', 'data/bobsl/sea_aligned_subtitles/'],
+                        ['Manual-aligned subtitles (55 episodes)', 'https://www.robots.ox.ac.uk/~vgg/data/bobsl/#aligned_sentences'],
+                    ]
                 },
                 'how2sign': {
                     label: 'How2Sign',
                     description: 'American Sign Language (ASL) corpus of instructional videos.',
-                    links: {
-                        videos: 'https://how2sign.github.io/#download',
-                        original_subtitles: 'https://how2sign.github.io/#download',
-                        sea_subtitles: '',
-                        manual_subtitles: 'https://how2sign.github.io/#download'
-                    }
+                    links: [
+                        ['Videos', 'https://how2sign.github.io/#download'],
+                        ['Original subtitles', 'https://how2sign.github.io/#download'],
+                        ['SEA-aligned subtitles', ''],
+                        ['Manual-aligned subtitles', 'https://how2sign.github.io/#download'],
+                    ]
                 },
                 'wmt_slt': {
                     label: 'WMT-SLT SRF',
                     description: 'Swiss German Sign Language (DSGS) corpus from SRF news broadcasts.',
-                    links: {
-                        videos: 'https://zenodo.org/records/6637392',
+                    links: [
+                        ['Videos', 'https://zenodo.org/records/6637392'],
                         // TODO: check redistribution rights before uncommenting
-                        // original_subtitles: 'data/wmt/subtitles_audio_aligned/',
-                        original_subtitles: '',
-                        sea_subtitles: '',
-                        manual_subtitles: 'https://zenodo.org/records/6637392'
-                    }
+                        // ['Original subtitles', 'data/wmt/subtitles_audio_aligned/'],
+                        ['Original subtitles', ''],
+                        ['SEA-aligned subtitles', ''],
+                        ['Manual-aligned subtitles', 'https://zenodo.org/records/6637392'],
+                    ]
                 },
                 'swisssli': {
                     label: 'SwissSLi mitenand',
                     description: 'Swiss German Sign Language (DSGS) corpus from the <em>mitenand</em> programme.',
-                    links: {
-                        videos: 'https://doi.org/10.48656/h7er-cj04',
-                        original_subtitles: 'https://doi.org/10.48656/h7er-cj04',
-                        sea_subtitles: '',
+                    links: [
+                        ['Videos', 'https://doi.org/10.48656/h7er-cj04'],
+                        ['Original subtitles', 'https://doi.org/10.48656/h7er-cj04'],
+                        ['SEA-aligned subtitles', ''],
                         // TODO: check redistribution rights before uncommenting
-                        // manual_subtitles: 'data/swisssli/subtitles_manual_aligned/',
-                        manual_subtitles: ''
-                    }
+                        // ['Manual-aligned subtitles', 'data/swisssli/subtitles_manual_aligned/'],
+                        ['Manual-aligned subtitles', ''],
+                    ]
                 }
             };
 
@@ -283,10 +283,7 @@
                 $('#dataset-panel').html(`
                     <p>${ds.description}</p>
                     <ul style="list-style:none; padding:0; line-height:2.2em; font-size:1.05em;">
-                        ${linkRow('Videos', ds.links.videos)}
-                        ${linkRow('Original subtitles', ds.links.original_subtitles)}
-                        ${linkRow('SEA-aligned subtitles', ds.links.sea_subtitles)}
-                        ${linkRow('Manual-aligned subtitles (ground truth)', ds.links.manual_subtitles)}
+                        ${ds.links.map(([label, url]) => linkRow(label, url)).join('')}
                     </ul>
                 `);
             }
