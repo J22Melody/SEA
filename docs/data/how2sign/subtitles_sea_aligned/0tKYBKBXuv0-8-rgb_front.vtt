@@ -1,0 +1,28 @@
+WEBVTT
+
+00:00:00.166 --> 00:00:09.875
+JOHN CARSTARPHEN: Hi.
+
+00:00:09.000 --> 00:00:18.791
+Applying customized image maps to props and figures in Poser is a great way to change the look of things and to give your scenes a really unique flavor.
+
+00:00:17.916 --> 00:00:27.750
+But making those texture maps can be kind of a challenge and when you go to setup a new texture, it helps to see all the geometry of the item that you're texturing.
+
+00:00:26.791 --> 00:00:37.708
+So, to help with that, many content creators provide templates or seam guides to show where to put what part of the texture.
+
+00:00:36.750 --> 00:00:40.708
+And here's an example of a typical seam guide.
+
+00:00:39.750 --> 00:00:44.333
+Not all Poser items come with templates, though.
+
+00:00:43.666 --> 00:00:50.375
+And using the original image maps as a guide, while it's better than nothing, can be really frustrating.
+
+00:00:49.500 --> 00:01:00.500
+There is a utility that was developed to setup mapping data on polygonal structures to help in creating texture maps or image maps and it's called UVMapper.
+
+00:00:59.625 --> 00:01:04.666
+It's a free program or a free version of it can be downloaded here.

@@ -1,0 +1,97 @@
+WEBVTT
+
+00:00:01.333 --> 00:00:08.500
+Hi, my name is Dave Andrews.
+
+00:00:07.541 --> 00:00:11.833
+Today, I'm going to show you how to run a macro in Excel from Access.
+
+00:00:11.041 --> 00:00:16.000
+Let's begin by opening up Excel.
+
+00:00:15.041 --> 00:00:22.250
+Let's first create our macro by clicking the view tab.
+
+00:00:21.458 --> 00:00:26.625
+Go into macros and saying record macro.
+
+00:00:26.000 --> 00:00:30.416
+We're going to name this macro one just say okay.
+
+00:00:31.833 --> 00:00:39.875
+All this macro is going to do is type the number one, two, three, four across the top row.
+
+00:00:38.916 --> 00:00:47.750
+So, let's stop record by clicking this little drop down arrow and saying stop record.
+
+00:00:46.791 --> 00:00:49.250
+Now, we have our macro created.
+
+00:00:48.416 --> 00:00:53.166
+So, let's save this as a macro enable workbook.
+
+00:00:52.333 --> 00:00:55.250
+Click on your office button.
+
+00:00:55.041 --> 00:00:56.583
+Go to save as.
+
+00:00:56.250 --> 00:01:01.291
+We're going to save macro enable workbook.
+
+00:01:00.500 --> 00:01:04.875
+Let's name it book one and just say save.
+
+00:01:03.916 --> 00:01:16.625
+Now, we need to go into Access by clicking the start button, all programs, Microsoft Office.
+
+00:01:15.666 --> 00:01:24.291
+Let's open Access.
+
+00:01:23.750 --> 00:01:28.708
+We need to create a new database by clicking on the office button and saying new.
+
+00:01:27.833 --> 00:01:31.166
+Let's leave the name as database one and say create.
+
+00:01:30.208 --> 00:01:32.541
+Here's our new database.
+
+00:01:31.583 --> 00:01:41.458
+To run that macro from Excel macro from Access, hold down the ALT key on the keyboard.
+
+00:01:40.750 --> 00:01:42.958
+Press F11.
+
+00:01:48.625 --> 00:01:51.541
+This brings up the visual basic code editor.
+
+00:01:50.875 --> 00:01:52.208
+Go to the top.
+
+00:01:51.291 --> 00:01:54.916
+Say insert.
+
+00:01:54.125 --> 00:01:57.125
+We're going to say module.
+
+00:01:56.375 --> 00:02:03.500
+In our code editor, we're going to begin typing in some code.
+
+00:02:02.666 --> 00:02:07.875
+Now that we have our function created in Access, I'm going to go over it with you real quick.
+
+00:02:07.000 --> 00:02:15.541
+First thing it does is it creates a variable called Excel and the sign says Excel value.
+
+00:02:14.625 --> 00:02:21.708
+To the create object function, it launches a new Excel dot application scheme.
+
+00:02:20.750 --> 00:02:37.291
+It then opens up a Excel database that we give to it which is the path right here that I typed in and then it simply says Excel dot run and then the name of the macro we created which was macro one.
+
+00:02:36.541 --> 00:02:42.500
+You then could link to this function Excel test within an object in your database.
+
+00:02:41.541 --> 00:02:59.875
+My name is Dave Andrews and I just showed you how to run an Excel macro from Access.

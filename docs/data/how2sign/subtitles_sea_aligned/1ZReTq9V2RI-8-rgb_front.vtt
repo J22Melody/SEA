@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:00.666 --> 00:00:05.916
+In this video clip we'll be calculating the area of a circle.
+
+00:00:08.000 --> 00:00:18.500
+On this end table we're going to be putting a custom covering on the top and we need to figure out how much area this circle is.
+
+00:00:17.625 --> 00:00:30.708
+The first thing we need to do is find the diameter of the circle, here we have the diameter of about 16" and we're actually looking for the radius.
+
+00:00:30.541 --> 00:00:36.500
+So we're going to take 8" which is half of the diameter.
+
+00:00:35.666 --> 00:00:55.791
+What we're going to do from here is take a pie times the radius square so it'll be 3.1416 X 8 X 8 and that's going to give us a total area of 201.05 square inches of that circular top.
