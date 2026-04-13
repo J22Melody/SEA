@@ -7,5 +7,5 @@ __pycache__/
 docs/images/*.pdf
 
 # Dataset files — check redistribution rights before committing
-docs/data/wmt/
+docs/data/wmt/subtitles_audio_aligned/
 docs/data/swisssli/
